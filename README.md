@@ -1,8 +1,8 @@
 # Runner pentru MiniSat (Proiect SAT 2025)
 
-Ăsta e un script Python care ne face viața mai ușoară.
+Un script Python care ne face viața mai ușoară.
 
-Pe scurt: ia o grămadă de fișiere `.cnf.xz` (benchmark-uri), aplică `minisat` pe ele pe rând, vede dacă sunt SAT sau UNSAT (sau dacă dă TIMEOUT) și la final scrie un raport cu toate rezultatele.
+Pe scurt: ia fișiere `.cnf.xz` (benchmark-uri), aplică `minisat`, verifică dacă sunt SAT sau UNSAT (sau dacă dau TIMEOUT) și la final scrie un raport cu toate rezultatele.
 
 Înainte să-l rulezi:
 
