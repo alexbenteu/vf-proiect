@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import argparse
 import csv
 import json
@@ -5,7 +6,6 @@ import subprocess
 import time
 import sys
 import shutil
-import lzma
 from pathlib import Path
 import re
 
@@ -14,8 +14,8 @@ def discover_benchmarks(paths):
     for p in paths:
         p = Path(p)
         if p.is_dir():
-            files.extend(sorted(p.rglob("*.cnf.xz")))
-        elif p.is_file() and p.name.endswith(".cnf.xz"):
+            files.extend(sorted(p.rglob("*.cnf")))
+        elif p.is_file() and p.suffix.lower() == ".cnf":
             files.append(p)
     return files
 
@@ -40,30 +40,14 @@ def parse_minisat_output(output: str):
 
 def run_minisat(solver_exec, cnf_file, timeout, out_dir):
     
-    base_name = cnf_file.name.replace(".cnf.xz", "")
+    base_name = cnf_file.stem
     out_file = out_dir / f"{base_name}.out"
     log_file = out_dir / f"{base_name}.log.txt"
-    
-    temp_cnf_path = out_dir / f"{base_name}.temp.cnf"
     
     start = time.perf_counter()
     
     try:
-        try:
-            with lzma.open(cnf_file, "rb") as f_in:
-                with open(temp_cnf_path, "wb") as f_out:
-                    f_out.write(f_in.read())
-        except (lzma.LZMAError, OSError) as e:
-            elapsed = time.perf_counter() - start
-            err_msg = f"EROARE DE DECOMPRESIE/SCRIERE: {e}"
-            log_file.write_text(err_msg, encoding="utf-8")
-            return {
-                "benchmark": str(cnf_file), "status": "DECOMPRESS_ERROR", "time_seconds": round(elapsed, 6),
-                "cpu_time_solver": "", "stats": {}, "timeout_seconds": timeout,
-                "log_path": str(log_file), "output_file": str(out_file),
-            }
-
-        cmd = [str(solver_exec), str(temp_cnf_path), str(out_file)]
+        cmd = [str(solver_exec), "-verb=2", str(cnf_file), str(out_file)]
 
         proc = subprocess.run(
             cmd,
@@ -85,22 +69,32 @@ def run_minisat(solver_exec, cnf_file, timeout, out_dir):
             "log_path": str(log_file), "output_file": str(out_file),
         }
 
-    except subprocess.TimeoutExpired:
+    except subprocess.TimeoutExpired as e:
         elapsed = time.perf_counter() - start
-        log_file.write_text("TIMEOUT", encoding="utf-8")
+        
+        stdout_partial = e.stdout.decode('latin-1') if e.stdout else ""
+        stderr_partial = e.stderr.decode('latin-1') if e.stderr else ""
+        
+        combined = stdout_partial + "\n" + stderr_partial
+        
+        status, stats = parse_minisat_output(combined) 
+        
+        log_with_timeout_msg = combined + "\n\n--- PROCESUL A FOST OPRIT (TIMEOUT) ---"
+        log_file.write_text(log_with_timeout_msg, encoding="utf-8")
+        
         return {
-            "benchmark": str(cnf_file), "status": "TIMEOUT", "time_seconds": round(elapsed, 6),
-            "cpu_time_solver": "", "stats": {}, "timeout_seconds": timeout,
-            "log_path": str(log_file), "output_file": str(out_file),
+            "benchmark": str(cnf_file),
+            "status": "TIMEOUT",
+            "time_seconds": round(elapsed, 6),
+            "cpu_time_solver": stats.get("cpu_time_solver", ""),
+            "stats": stats, 
+            "timeout_seconds": timeout,
+            "log_path": str(log_file),
+            "output_file": str(out_file),
         }
-    
-    finally:
-        if temp_cnf_path.exists():
-            temp_cnf_path.unlink()
 
 
 def save_results(results, outdir):
-    """Salvează rezultatele în JSON, CSV și Markdown."""
     with open(outdir / "results.json", "w", encoding="utf-8") as f:
         json.dump(results, f, indent=2, ensure_ascii=False)
     
@@ -119,9 +113,11 @@ def save_results(results, outdir):
             f.write(f"| {Path(r['benchmark']).name} | {r['status']} | {r['time_seconds']:.3f} | {r.get('cpu_time_solver', '')} |\n")
 
 def main():
-    parser = argparse.ArgumentParser(description="Rulează benchmark-uri SAT (.cnf.xz) folosind MiniSat.")
-    parser.add_argument("--bench", nargs="+", required=True, help="Fișiere .cnf.xz sau directoare")
-    parser.add_argument("--timeout", type=int, default=1800, help="Timeout per benchmark (secunde)")
+    parser = argparse.ArgumentParser(description="Rulează benchmark-uri SAT (.cnf) folosind MiniSat.")
+    parser.add_argument("--bench", nargs="+", required=True, help="Fișiere .cnf sau directoare")
+    
+    parser.add_argument("--timeout", type=int, default=5000, help="Timeout per benchmark (secunde)")
+    
     parser.add_argument("--outdir", type=Path, default=Path("results_minisat"))
     args = parser.parse_args()
 
@@ -140,10 +136,10 @@ def main():
 
     benchmarks = discover_benchmarks(args.bench)
     if not benchmarks:
-        print(f"Nu s-au găsit fișiere .cnf.xz în: {args.bench}")
+        print(f"Nu s-au găsit fișiere .cnf în: {args.bench}")
         sys.exit(1)
 
-    print(f"Se rulează MiniSat pe {len(benchmarks)} benchmark-uri (.cnf.xz)...")
+    print(f"Se rulează MiniSat pe {len(benchmarks)} benchmark-uri (.cnf)...")
 
     results = []
     for cnf in benchmarks:
