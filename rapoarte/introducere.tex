@@ -1,0 +1,13 @@
+\section{Introducere}
+
+Folosirea a SAT-solvers în diferite domenii este în continuă creștere odată cu creșterea înțelegerii următoarei întrebări: "Cum pot codifica problema eficient în SAT?". Un domeniu important în care putem observa această creștere este automatizarea proiectării electronice (EDA)~\cite{Biere1999DAC, TestPattern, MiniSat}.
+
+Mărimea formulelor CNF este adesea foarte mare și, în practică, de multe ori este observat că timpul de execuție este legat de dimensiunea formulelor CNF, în diferite condiții.~\cite{Een2005SAT}
+
+Având în vedere importanța și diversitatea SAT-solver,  comunitatea științifică organizează anual Competiția SAT~\cite{SATComp2024}, care stabilește un standard prin furnizarea unui set de benchmark-uri, extrase din probleme industriale și academice reale.
+
+Un SAT-solver minimal și open-source este MiniSat~\cite{MiniSat} care este bazat pe ideile de backtracking ghidat de conflicte~\cite{GRASP}, împreună cu literali supravegheați și ordonare dinamică a variabilelor~\cite{Chaff}. Pe lângă importanța acestuia în termeni de simplitate și accesibilitate, prin documentarea riguroasă a ideilor și a codului acestui SAT-solver, autorii au facilitat posibilitatea de a modifica și îmbunătăți algoritmul cu idei noi.
+
+Obiectivul acestei lucrări este de a reproduce și de a analiza performanța MiniSat folosind benchmark-uri din competiția SAT 2024. Lucrarea urmărește să documenteze procesul de instalare MiniSat pe diferite sisteme de operare; să reproducă și să analizeze performanța MiniSat pe 2 benchmark-uri pe diferite configurații hardware și pe diferite sisteme de operare; să prezinte provocările tehnice întâmpinate în timpul experimentării; și să prezinte o analiză a algoritmilor interni MiniSat, discutând și posibile căi de îmbunătățire a acestora.
+
+Raportul de față este structurat pentru a reflecta aceste obiective. În secțiunea 2 detaliem fundamentele teoretice ale problemei SAT. În secțiunea 3 prezentăm pașii de configurare a mediului de lucru pe diferitele platforme. În secțiunea 4 analizăm și comparăm datele obținute. Secțiunea 5 discută provocările tehnice și soluțiile adoptate. Secțiunea 6 oferă o analiză a algoritmilor interni ai MiniSat, iar secțiunea 7 încheie lucrarea cu concluzii.
