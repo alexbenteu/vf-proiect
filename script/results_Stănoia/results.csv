@@ -1,0 +1,6 @@
+benchmark,status,time_seconds,cpu_time_solver,timeout_seconds
+tests/8e62c5d47920ffe36052f86177403e70-SC25_Timetable_C_393_E_45_Cl_26_D_7_T_50.normalised.cnf,SATISFIABLE,23.673015,23.4567,5000
+tests/b1c8eaa002ac2fa1c8bfd1002738e78e-cliquecolouring_n15_k7_c6.sanitized.cnf,TIMEOUT,5000.024562,,5000
+tests/ca3c65a863526793968fc30618a42709-case16.normalised.cnf,SATISFIABLE,1323.399375,1336.92,5000
+tests/de8c42d50f1dbf43a731f1916dc6bf01-16_16_booth_dadda_mapped_and_and_wallace_origin_bit28.cnf,SATISFIABLE,4703.05659,4784.05,5000
+tests/f33a6163305d6559043b7438a692dea9-simon-r17-1.sanitized.cnf,TIMEOUT,5000.043914,,5000
