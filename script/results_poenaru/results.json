@@ -1,0 +1,67 @@
+[
+  {
+    "benchmark": "tests/8e62c5d47920ffe36052f86177403e70-SC25_Timetable_C_393_E_45_Cl_26_D_7_T_50.normalised.cnf",
+    "status": "SATISFIABLE",
+    "time_seconds": 12.671972,
+    "cpu_time_solver": "12.5965",
+    "stats": {
+      "conflicts": "248397",
+      "decisions": "13938387",
+      "propagations": "123989183",
+      "cpu_time_solver": "12.5965"
+    },
+    "timeout_seconds": 5000,
+    "log_path": "/Users/iulianpoenaru/uvt/vf-proiect/script/results_poenaru/8e62c5d47920ffe36052f86177403e70-SC25_Timetable_C_393_E_45_Cl_26_D_7_T_50.normalised.log.txt",
+    "output_file": "/Users/iulianpoenaru/uvt/vf-proiect/script/results_poenaru/8e62c5d47920ffe36052f86177403e70-SC25_Timetable_C_393_E_45_Cl_26_D_7_T_50.normalised.out"
+  },
+  {
+    "benchmark": "tests/b1c8eaa002ac2fa1c8bfd1002738e78e-cliquecolouring_n15_k7_c6.sanitized.cnf",
+    "status": "TIMEOUT",
+    "time_seconds": 5000.007251,
+    "cpu_time_solver": "",
+    "stats": {},
+    "timeout_seconds": 5000,
+    "log_path": "/Users/iulianpoenaru/uvt/vf-proiect/script/results_poenaru/b1c8eaa002ac2fa1c8bfd1002738e78e-cliquecolouring_n15_k7_c6.sanitized.log.txt",
+    "output_file": "/Users/iulianpoenaru/uvt/vf-proiect/script/results_poenaru/b1c8eaa002ac2fa1c8bfd1002738e78e-cliquecolouring_n15_k7_c6.sanitized.out"
+  },
+  {
+    "benchmark": "tests/ca3c65a863526793968fc30618a42709-case16.normalised.cnf",
+    "status": "SATISFIABLE",
+    "time_seconds": 1070.826116,
+    "cpu_time_solver": "1068.44",
+    "stats": {
+      "conflicts": "33427754",
+      "decisions": "42643751",
+      "propagations": "3933684584",
+      "cpu_time_solver": "1068.44"
+    },
+    "timeout_seconds": 5000,
+    "log_path": "/Users/iulianpoenaru/uvt/vf-proiect/script/results_poenaru/ca3c65a863526793968fc30618a42709-case16.normalised.log.txt",
+    "output_file": "/Users/iulianpoenaru/uvt/vf-proiect/script/results_poenaru/ca3c65a863526793968fc30618a42709-case16.normalised.out"
+  },
+  {
+    "benchmark": "tests/de8c42d50f1dbf43a731f1916dc6bf01-16_16_booth_dadda_mapped_and_and_wallace_origin_bit28.cnf",
+    "status": "SATISFIABLE",
+    "time_seconds": 3639.560745,
+    "cpu_time_solver": "3630.74",
+    "stats": {
+      "conflicts": "104647547",
+      "decisions": "131539604",
+      "propagations": "22950769800",
+      "cpu_time_solver": "3630.74"
+    },
+    "timeout_seconds": 5000,
+    "log_path": "/Users/iulianpoenaru/uvt/vf-proiect/script/results_poenaru/de8c42d50f1dbf43a731f1916dc6bf01-16_16_booth_dadda_mapped_and_and_wallace_origin_bit28.log.txt",
+    "output_file": "/Users/iulianpoenaru/uvt/vf-proiect/script/results_poenaru/de8c42d50f1dbf43a731f1916dc6bf01-16_16_booth_dadda_mapped_and_and_wallace_origin_bit28.out"
+  },
+  {
+    "benchmark": "tests/f33a6163305d6559043b7438a692dea9-simon-r17-1.sanitized.cnf",
+    "status": "TIMEOUT",
+    "time_seconds": 5000.00446,
+    "cpu_time_solver": "",
+    "stats": {},
+    "timeout_seconds": 5000,
+    "log_path": "/Users/iulianpoenaru/uvt/vf-proiect/script/results_poenaru/f33a6163305d6559043b7438a692dea9-simon-r17-1.sanitized.log.txt",
+    "output_file": "/Users/iulianpoenaru/uvt/vf-proiect/script/results_poenaru/f33a6163305d6559043b7438a692dea9-simon-r17-1.sanitized.out"
+  }
+]
