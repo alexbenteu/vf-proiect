@@ -1,0 +1,54 @@
+\section{Descrierea problemei}
+
+Problema satisfiabilității booleene, SAT, este o problemă importantă în logica propozițională, având implicații în diverse domenii științifice și inginerești.
+
+\subsection{Definiții}
+
+Problemele SAT au la bază conceptele de logică Booleană. O variabilă Booleană este o unitate de bază care poate avea doar două stări: Adevărat sau Fals, 1 sau 0. Un literal reprezintă o variabilă  $x_1$ sau negația acesteia $\neg x_1$, citit "non $x_1$".
+
+O clauză este o colecție de literali care sunt conectați printr-o operație de disjuncție. De exemplu:
+$$ (x_1 \lor  x_2 ) $$
+
+O clauză este considerată satisfăcută, dacă cel puțin unul dintre literalii componenți este adevărat. În exemplul anterior, clauza este adevărată dacă $x_1$ este adevărat sau $x_2$ este adevărat.
+
+O formulă este în CNF (forma normală conjunctivă) dacă reprezintă o conjuncție de mai multe clauze (disjuncții). De exemplu:
+$$ (x_1 \lor x_2) \land (\neg x_2 \lor x_3) $$
+
+Pentru ca întreaga formulă să fie satisfăcută, este necesar ca fiecare clauză să fie adevărată. Problema SAT poate fi definită formal:
+\begin{quote}
+    Există, pentru o formulă în forma normală conjunctivă, un set de valori pentru variabilele sale astfel încât întreaga formulă să fie adevărată?
+\end{quote}
+
+Dacă există o astfel de atribuire, atunci formula este satisfiabilă (SAT). în caz contrar, formula este nesatisfiabilă (UNSAT). Atribuirea este cunoscută sub numele de model.
+
+SAT-solverele, inclusiv Minisat, sunt optimizate să găsească o astfel de model pentru formulele în CNF.
+
+\subsection{Formatul standard DIMACS}
+
+Comunitatea științifică a adoptat formatul DIMACS CNF pentru a facilita partajarea problemelor într-o formă standardizată. Acesta este un format text simplu, folosit de toate benchmark-urile din Competiția SAT și este formatul de intrare așteptat de MiniSat. Acest format a fost standardizat în cadrul celui de-al 
+doilea Challenge DIMACS și este acum utilizat 
+universal~\cite{DIMACS1996}.
+
+Conform publicației~\cite{DIMACS1996}, un fișier `.cnf` în format DIMACS respectă următoarele reguli:
+\begin{itemize}
+    \item liniile care încep cu litera \texttt{c} sunt comentarii.
+    \item documentul începe cu o singură linie de antet, linia "problem": \texttt{p cnf V C}, unde \texttt{V} este numărul total de variabile și \texttt{C} este numărul total de clauze.
+    \item urmează clauzele, una sau mai multe pe linie.
+    \item fiecare variabilă este reprezentată de un număr întreg pozitiv (ex: \texttt{1}, \texttt{2}, \texttt{3}).
+    \item negația unei variabile este reprezentată de numărul întreg negativ corespunzător (ex: \texttt{-1}, \texttt{-2}, \texttt{-3}).
+    \item fiecare clauză se încheie cu numărul \texttt{0}.
+\end{itemize}
+De exemplu, formula CNF $(x_1 \lor x_2) \land (\neg x_2 \lor x_3)$ ar fi reprezentată în DIMACS (cu 3 variabile și 2 clauze) astfel:
+\begin{verbatim}
+c Acesta este un exemplu
+p cnf 3 2
+1 2 0
+-2 3 0
+\end{verbatim}
+
+\subsection{Importanță}
+
+Pe lângă aceste definiții, importanța problemei SAT provine din statutul său teoretic. A fost prima problemă demonstrată ca fiind NP-Completă~\cite{Cook1971, Levin1973}. Această clasificare înseamnă un lucru specific: deși o soluție propusă (un model) este foarte ușor de verificat (în timp polinomial), găsirea efectivă a acelei soluții este o problemă considerată extrem de dificilă, putând necesita timp exponențial în cel mai rău caz.
+
+Totuși, această dificultate face ca SAT să fie o problemă "universală" și extrem de utilă. Deoarece este NP-Completă, orice altă problemă dificilă din clasa NP poate fi redusă (transformată sau "encodată") într-o instanță SAT. Acest fapt are implicații practice uriașe: probleme complexe din domenii precum automatizarea proiectării electronice (EDA)~\cite{Biere199DAC}, planificarea în inteligența artificială, bioinformatica sau criptanaliza pot fi rezolvate. Ele sunt "traduse" într-o formulă CNF, iar un SAT-solver performant este apoi folosit ca un motor de rezolvare.
+
