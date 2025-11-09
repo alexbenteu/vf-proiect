@@ -2,7 +2,7 @@
 
 Un script Python care ne face viața mai ușoară.
 
-Pe scurt: ia fișiere `.cnf.xz` (benchmark-uri), aplică `minisat`, verifică dacă sunt SAT sau UNSAT (sau dacă dau TIMEOUT) și la final scrie un raport cu toate rezultatele.
+Pe scurt: ia fișiere `.cnf` (benchmark-uri), aplică `minisat`, verifică dacă sunt SAT sau UNSAT (sau dacă dau TIMEOUT) și la final scrie un raport cu toate rezultatele.
 
 Înainte să-l rulezi:
 
