@@ -1,0 +1,62 @@
+[
+  {
+    "benchmark": "tests/8e62c5d47920ffe36052f86177403e70-SC25_Timetable_C_393_E_45_Cl_26_D_7_T_50.normalised.cnf",
+    "status": "SATISFIABLE",
+    "time_seconds": 46.596613,
+    "cpu_time_solver": "45.5478",
+    "stats": {
+      "conflicts": "249596",
+      "decisions": "14085304",
+      "propagations": "124859281",
+      "cpu_time_solver": "45.5478"
+    },
+    "timeout_seconds": 5000,
+    "log_path": "/mnt/c/Users/Lorena/Desktop/vf-proiect-main/script/results_Lorena/8e62c5d47920ffe36052f86177403e70-SC25_Timetable_C_393_E_45_Cl_26_D_7_T_50.normalised.log.txt",
+    "output_file": "/mnt/c/Users/Lorena/Desktop/vf-proiect-main/script/results_Lorena/8e62c5d47920ffe36052f86177403e70-SC25_Timetable_C_393_E_45_Cl_26_D_7_T_50.normalised.out"
+  },
+  {
+    "benchmark": "tests/b1c8eaa002ac2fa1c8bfd1002738e78e-cliquecolouring_n15_k7_c6.sanitized.cnf",
+    "status": "TIMEOUT",
+    "time_seconds": 5000.045556,
+    "cpu_time_solver": "",
+    "stats": {},
+    "timeout_seconds": 5000,
+    "log_path": "/mnt/c/Users/Lorena/Desktop/vf-proiect-main/script/results_Lorena/b1c8eaa002ac2fa1c8bfd1002738e78e-cliquecolouring_n15_k7_c6.sanitized.log.txt",
+    "output_file": "/mnt/c/Users/Lorena/Desktop/vf-proiect-main/script/results_Lorena/b1c8eaa002ac2fa1c8bfd1002738e78e-cliquecolouring_n15_k7_c6.sanitized.out"
+  },
+  {
+    "benchmark": "tests/ca3c65a863526793968fc30618a42709-case16.normalised.cnf",
+    "status": "SATISFIABLE",
+    "time_seconds": 1526.29742,
+    "cpu_time_solver": "1526.14",
+    "stats": {
+      "conflicts": "33427754",
+      "decisions": "42643751",
+      "propagations": "3933684584",
+      "cpu_time_solver": "1526.14"
+    },
+    "timeout_seconds": 5000,
+    "log_path": "/mnt/c/Users/Lorena/Desktop/vf-proiect-main/script/results_Lorena/ca3c65a863526793968fc30618a42709-case16.normalised.log.txt",
+    "output_file": "/mnt/c/Users/Lorena/Desktop/vf-proiect-main/script/results_Lorena/ca3c65a863526793968fc30618a42709-case16.normalised.out"
+  },
+  {
+    "benchmark": "tests/de8c42d50f1dbf43a731f1916dc6bf01-16_16_booth_dadda_mapped_and_and_wallace_origin_bit28.cnf",
+    "status": "TIMEOUT",
+    "time_seconds": 5000.068861,
+    "cpu_time_solver": "",
+    "stats": {},
+    "timeout_seconds": 5000,
+    "log_path": "/mnt/c/Users/Lorena/Desktop/vf-proiect-main/script/results_Lorena/de8c42d50f1dbf43a731f1916dc6bf01-16_16_booth_dadda_mapped_and_and_wallace_origin_bit28.log.txt",
+    "output_file": "/mnt/c/Users/Lorena/Desktop/vf-proiect-main/script/results_Lorena/de8c42d50f1dbf43a731f1916dc6bf01-16_16_booth_dadda_mapped_and_and_wallace_origin_bit28.out"
+  },
+  {
+    "benchmark": "tests/f33a6163305d6559043b7438a692dea9-simon-r17-1.sanitized.cnf",
+    "status": "TIMEOUT",
+    "time_seconds": 5000.025739,
+    "cpu_time_solver": "",
+    "stats": {},
+    "timeout_seconds": 5000,
+    "log_path": "/mnt/c/Users/Lorena/Desktop/vf-proiect-main/script/results_Lorena/f33a6163305d6559043b7438a692dea9-simon-r17-1.sanitized.log.txt",
+    "output_file": "/mnt/c/Users/Lorena/Desktop/vf-proiect-main/script/results_Lorena/f33a6163305d6559043b7438a692dea9-simon-r17-1.sanitized.out"
+  }
+]
