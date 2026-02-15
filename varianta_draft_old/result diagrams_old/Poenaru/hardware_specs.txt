@@ -1,0 +1,12 @@
+======================================
+HARDWARE SPECIFICATIONS
+======================================
+
+1. PROCESSOR (CPU):
+   - Model: Apple M4
+   
+2. CORES:
+   - Number of Cores : 10≈
+   
+3. RAM:
+   - Total Capacity: 16.0 GB 

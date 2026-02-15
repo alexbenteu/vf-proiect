@@ -1,0 +1,67 @@
+[
+  {
+    "benchmark": "tests/8e62c5d47920ffe36052f86177403e70-SC25_Timetable_C_393_E_45_Cl_26_D_7_T_50.normalised.cnf",
+    "status": "SATISFIABLE",
+    "time_seconds": 23.673015,
+    "cpu_time_solver": "23.4567",
+    "stats": {
+      "conflicts": "249596",
+      "decisions": "14085304",
+      "propagations": "124859281",
+      "cpu_time_solver": "23.4567"
+    },
+    "timeout_seconds": 5000,
+    "log_path": "/mnt/c/Users/Hp/vf-proiect/script/results_Stănoia/8e62c5d47920ffe36052f86177403e70-SC25_Timetable_C_393_E_45_Cl_26_D_7_T_50.normalised.log.txt",
+    "output_file": "/mnt/c/Users/Hp/vf-proiect/script/results_Stănoia/8e62c5d47920ffe36052f86177403e70-SC25_Timetable_C_393_E_45_Cl_26_D_7_T_50.normalised.out"
+  },
+  {
+    "benchmark": "tests/b1c8eaa002ac2fa1c8bfd1002738e78e-cliquecolouring_n15_k7_c6.sanitized.cnf",
+    "status": "TIMEOUT",
+    "time_seconds": 5000.024562,
+    "cpu_time_solver": "",
+    "stats": {},
+    "timeout_seconds": 5000,
+    "log_path": "/mnt/c/Users/Hp/vf-proiect/script/results_Stănoia/b1c8eaa002ac2fa1c8bfd1002738e78e-cliquecolouring_n15_k7_c6.sanitized.log.txt",
+    "output_file": "/mnt/c/Users/Hp/vf-proiect/script/results_Stănoia/b1c8eaa002ac2fa1c8bfd1002738e78e-cliquecolouring_n15_k7_c6.sanitized.out"
+  },
+  {
+    "benchmark": "tests/ca3c65a863526793968fc30618a42709-case16.normalised.cnf",
+    "status": "SATISFIABLE",
+    "time_seconds": 1323.399375,
+    "cpu_time_solver": "1336.92",
+    "stats": {
+      "conflicts": "33427754",
+      "decisions": "42643751",
+      "propagations": "3933684584",
+      "cpu_time_solver": "1336.92"
+    },
+    "timeout_seconds": 5000,
+    "log_path": "/mnt/c/Users/Hp/vf-proiect/script/results_Stănoia/ca3c65a863526793968fc30618a42709-case16.normalised.log.txt",
+    "output_file": "/mnt/c/Users/Hp/vf-proiect/script/results_Stănoia/ca3c65a863526793968fc30618a42709-case16.normalised.out"
+  },
+  {
+    "benchmark": "tests/de8c42d50f1dbf43a731f1916dc6bf01-16_16_booth_dadda_mapped_and_and_wallace_origin_bit28.cnf",
+    "status": "SATISFIABLE",
+    "time_seconds": 4703.05659,
+    "cpu_time_solver": "4784.05",
+    "stats": {
+      "conflicts": "105063937",
+      "decisions": "132112457",
+      "propagations": "23071352105",
+      "cpu_time_solver": "4784.05"
+    },
+    "timeout_seconds": 5000,
+    "log_path": "/mnt/c/Users/Hp/vf-proiect/script/results_Stănoia/de8c42d50f1dbf43a731f1916dc6bf01-16_16_booth_dadda_mapped_and_and_wallace_origin_bit28.log.txt",
+    "output_file": "/mnt/c/Users/Hp/vf-proiect/script/results_Stănoia/de8c42d50f1dbf43a731f1916dc6bf01-16_16_booth_dadda_mapped_and_and_wallace_origin_bit28.out"
+  },
+  {
+    "benchmark": "tests/f33a6163305d6559043b7438a692dea9-simon-r17-1.sanitized.cnf",
+    "status": "TIMEOUT",
+    "time_seconds": 5000.043914,
+    "cpu_time_solver": "",
+    "stats": {},
+    "timeout_seconds": 5000,
+    "log_path": "/mnt/c/Users/Hp/vf-proiect/script/results_Stănoia/f33a6163305d6559043b7438a692dea9-simon-r17-1.sanitized.log.txt",
+    "output_file": "/mnt/c/Users/Hp/vf-proiect/script/results_Stănoia/f33a6163305d6559043b7438a692dea9-simon-r17-1.sanitized.out"
+  }
+]

@@ -1,0 +1,5 @@
+CP3 online oracle service starting
+CNF: /home/bent/proiect-minisat/tests/de8c42d50f1dbf43a731f1916dc6bf01-16_16_booth_dadda_mapped_and_and_wallace_origin_bit28.cnf (vars=2948, clauses=9573)
+Initializing engines...
+CP3 online oracle service started
+Tensor status: enabled (ok (b1 streaming frontier, clauses=9573, tile=4096))

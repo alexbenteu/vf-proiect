@@ -1,0 +1,18 @@
+=========================
+HARDWARE SPECIFICATIONS
+=========================
+
+1. **PROCESSOR (CPU):**
+
+   * Model: AMD Ryzen™ 5 5500U with Radeon™ Graphics
+   * Base Speed: 2.10 GHz
+   * Max Boost Speed: ~4.0 GHz
+
+2. **CORES:**
+
+   * Number of Cores: 6
+   * Logical Processors (Threads): 12
+
+3. **RAM:**
+
+   * Total Capacity: 8.0 GB (7.4 GB usable)

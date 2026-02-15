@@ -1,0 +1,4146 @@
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:        213268                                         |
+|  Number of clauses:          660028                                         |
+|  Parse time:                   0.25 s                                       |
+subsumption left:     660027 (         0 subsumed,          0 deleted literals)
+subsumption left:     661813 (         0 subsumed,       2786 deleted literals)
+subsumption left:     663523 (         0 subsumed,       5496 deleted literals)
+subsumption left:     665309 (         0 subsumed,       8282 deleted literals)
+subsumption left:     667057 (         0 subsumed,      11030 deleted literals)
+subsumption left:     668767 (         0 subsumed,      13740 deleted literals)
+subsumption left:     670211 (         0 subsumed,      16184 deleted literals)
+subsumption left:     672111 (         0 subsumed,      19084 deleted literals)
+subsumption left:     673821 (         0 subsumed,      21794 deleted literals)
+subsumption left:     675493 (         0 subsumed,      24466 deleted literals)
+subsumption left:     677203 (         0 subsumed,      27176 deleted literals)
+subsumption left:     678989 (         0 subsumed,      29962 deleted literals)
+subsumption left:     680661 (         0 subsumed,      32634 deleted literals)
+subsumption left:     682219 (         0 subsumed,      35192 deleted literals)
+subsumption left:     683967 (         0 subsumed,      37940 deleted literals)
+subsumption left:     685829 (         0 subsumed,      40802 deleted literals)
+subsumption left:     687577 (         0 subsumed,      43550 deleted literals)
+subsumption left:     689211 (         0 subsumed,      46184 deleted literals)
+subsumption left:     690997 (         0 subsumed,      48970 deleted literals)
+subsumption left:     692669 (         0 subsumed,      51642 deleted literals)
+subsumption left:     693459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     692459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     691459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     690459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     689459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     688459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     687459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     686459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     685459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     684459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     683459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     682459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     681459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     680459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     679459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     678459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     677459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     676459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     675459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     674459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     673459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     672459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     671459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     670459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     669459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     668459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     667459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     666459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     665459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     664459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     663459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     662459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     661459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     660459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     659459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     658459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     657459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     656459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     655459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     654459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     653459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     652459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     651459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     650459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     649459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     648459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     647459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     646459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     645459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     644459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     643459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     642459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     641459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     640459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     639459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     638459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     637459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     636459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     635459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     634459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     633459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     632459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     631459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     630459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     629459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     628459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     627459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     626459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     625459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     624459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     623459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     622459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     621459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     620459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     619459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     618459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     617459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     616459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     615459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     614459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     613459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     612459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     611459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     610459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     609459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     608459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     607459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     606459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     605459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     604459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     603459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     602459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     601459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     600459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     599459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     598459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     597459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     596459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     595459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     594459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     593459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     592459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     591459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     590459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     589459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     588459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     587459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     586459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     585459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     584459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     583459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     582459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     581459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     580459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     579459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     578459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     577459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     576459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     575459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     574459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     573459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     572459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     571459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     570459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     569459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     568459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     567459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     566459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     565459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     564459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     563459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     562459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     561459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     560459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     559459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     558459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     557459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     556459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     555459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     554459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     553459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     552459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     551459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     550459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     549459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     548459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     547459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     546459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     545459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     544459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     543459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     542459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     541459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     540459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     539459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     538459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     537459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     536459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     535459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     534459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     533459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     532459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     531459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     530459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     529459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     528459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     527459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     526459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     525459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     524459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     523459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     522459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     521459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     520459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     519459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     518459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     517459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     516459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     515459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     514459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     513459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     512459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     511459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     510459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     509459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     508459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     507459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     506459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     505459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     504459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     503459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     502459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     501459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     500459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     499459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     498459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     497459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     496459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     495459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     494459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     493459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     492459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     491459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     490459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     489459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     488459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     487459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     486459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     485459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     484459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     483459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     482459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     481459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     480459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     479459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     478459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     477459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     476459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     475459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     474459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     473459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     472459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     471459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     470459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     469459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     468459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     467459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     466459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     465459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     464459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     463459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     462459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     461459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     460459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     459459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     458459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     457459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     456459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     455459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     454459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     453459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     452459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     451459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     450459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     449459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     448459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     447459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     446459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     445459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     444459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     443459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     442459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     441459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     440459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     439459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     438459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     437459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     436459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     435459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     434459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     433459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     432459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     431459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     430459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     429459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     428459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     427459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     426459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     425459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     424459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     423459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     422459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     421459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     420459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     419459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     418459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     417459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     416459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     415459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     414459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     413459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     412459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     411459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     410459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     409459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     408459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     407459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     406459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     405459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     404459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     403459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     402459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     401459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     400459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     399459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     398459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     397459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     396459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     395459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     394459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     393459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     392459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     391459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     390459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     389459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     388459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     387459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     386459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     385459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     384459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     383459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     382459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     381459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     380459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     379459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     378459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     377459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     376459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     375459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     374459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     373459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     372459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     371459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     370459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     369459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     368459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     367459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     366459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     365459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     364459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     363459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     362459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     361459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     360459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     359459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     358459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     357459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     356459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     355459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     354459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     353459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     352459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     351459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     350459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     349459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     348459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     347459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     346459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     345459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     344459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     343459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     342459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     341459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     340459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     339459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     338459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     337459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     336459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     335459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     334459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     333459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     332459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     331459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     330459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     329459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     328459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     327459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     326459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     325459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     324459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     323459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     322459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     321459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     320459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     319459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     318459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     317459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     316459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     315459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     314459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     313459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     312459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     311459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     310459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     309459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     308459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     307459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     306459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     305459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     304459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     303459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     302459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     301459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     300459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     299459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     298459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     297459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     296459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     295459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     294459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     293459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     292459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     291459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     290459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     289459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     288459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     287459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     286459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     285459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     284459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     283459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     282459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     281459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     280459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     279459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     278459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     277459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     276459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     275459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     274459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     273459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     272459 (         0 subsumed,      53432 deleted literals)
+subsumption left:     271439 (        20 subsumed,      53432 deleted literals)
+subsumption left:     270403 (        56 subsumed,      53432 deleted literals)
+subsumption left:     269363 (        96 subsumed,      53432 deleted literals)
+subsumption left:     268329 (       130 subsumed,      53432 deleted literals)
+subsumption left:     267303 (       156 subsumed,      53432 deleted literals)
+subsumption left:     266274 (       186 subsumed,      53432 deleted literals)
+subsumption left:     265251 (       208 subsumed,      53432 deleted literals)
+subsumption left:     264221 (       238 subsumed,      53432 deleted literals)
+subsumption left:     263177 (       282 subsumed,      53432 deleted literals)
+subsumption left:     262136 (       323 subsumed,      53432 deleted literals)
+subsumption left:     261095 (       364 subsumed,      53432 deleted literals)
+subsumption left:     260062 (       398 subsumed,      53432 deleted literals)
+subsumption left:     259023 (       436 subsumed,      53432 deleted literals)
+subsumption left:     257991 (       468 subsumed,      53432 deleted literals)
+subsumption left:     256961 (       498 subsumed,      53432 deleted literals)
+subsumption left:     255924 (       535 subsumed,      53432 deleted literals)
+subsumption left:     254877 (       582 subsumed,      53432 deleted literals)
+subsumption left:     253843 (       616 subsumed,      53432 deleted literals)
+subsumption left:     252820 (       639 subsumed,      53432 deleted literals)
+subsumption left:     251790 (       669 subsumed,      53432 deleted literals)
+subsumption left:     250757 (       702 subsumed,      53432 deleted literals)
+subsumption left:     249716 (       743 subsumed,      53432 deleted literals)
+subsumption left:     248683 (       777 subsumed,      53432 deleted literals)
+subsumption left:     247653 (       806 subsumed,      53432 deleted literals)
+subsumption left:     246627 (       832 subsumed,      53432 deleted literals)
+subsumption left:     245601 (       858 subsumed,      53432 deleted literals)
+subsumption left:     244571 (       888 subsumed,      53432 deleted literals)
+subsumption left:     243530 (       929 subsumed,      53432 deleted literals)
+subsumption left:     242497 (       962 subsumed,      53432 deleted literals)
+subsumption left:     241452 (      1007 subsumed,      53432 deleted literals)
+subsumption left:     240419 (      1040 subsumed,      53432 deleted literals)
+subsumption left:     239385 (      1074 subsumed,      53432 deleted literals)
+subsumption left:     238352 (      1107 subsumed,      53432 deleted literals)
+subsumption left:     237322 (      1137 subsumed,      53432 deleted literals)
+subsumption left:     236292 (      1167 subsumed,      53432 deleted literals)
+subsumption left:     235247 (      1212 subsumed,      53432 deleted literals)
+subsumption left:     234214 (      1245 subsumed,      53432 deleted literals)
+subsumption left:     233179 (      1280 subsumed,      53432 deleted literals)
+subsumption left:     232144 (      1316 subsumed,      53432 deleted literals)
+subsumption left:     231114 (      1345 subsumed,      53432 deleted literals)
+subsumption left:     230077 (      1382 subsumed,      53432 deleted literals)
+subsumption left:     229051 (      1408 subsumed,      53432 deleted literals)
+subsumption left:     228010 (      1449 subsumed,      53432 deleted literals)
+subsumption left:     226979 (      1480 subsumed,      53432 deleted literals)
+subsumption left:     225947 (      1512 subsumed,      53432 deleted literals)
+subsumption left:     224911 (      1548 subsumed,      53432 deleted literals)
+subsumption left:     223876 (      1583 subsumed,      53432 deleted literals)
+subsumption left:     222839 (      1620 subsumed,      53432 deleted literals)
+subsumption left:     221813 (      1646 subsumed,      53432 deleted literals)
+subsumption left:     220772 (      1687 subsumed,      53432 deleted literals)
+subsumption left:     219735 (      1724 subsumed,      53432 deleted literals)
+subsumption left:     218709 (      1750 subsumed,      53432 deleted literals)
+subsumption left:     217668 (      1791 subsumed,      53432 deleted literals)
+subsumption left:     216638 (      1821 subsumed,      53432 deleted literals)
+subsumption left:     215605 (      1854 subsumed,      53432 deleted literals)
+subsumption left:     214575 (      1884 subsumed,      53432 deleted literals)
+subsumption left:     213545 (      1914 subsumed,      53432 deleted literals)
+subsumption left:     212516 (      1943 subsumed,      53432 deleted literals)
+subsumption left:     211478 (      1981 subsumed,      53432 deleted literals)
+subsumption left:     210443 (      2016 subsumed,      53432 deleted literals)
+subsumption left:     209405 (      2054 subsumed,      53432 deleted literals)
+subsumption left:     208371 (      2088 subsumed,      53432 deleted literals)
+subsumption left:     207345 (      2114 subsumed,      53432 deleted literals)
+subsumption left:     206313 (      2146 subsumed,      53432 deleted literals)
+subsumption left:     205265 (      2194 subsumed,      53432 deleted literals)
+subsumption left:     204233 (      2226 subsumed,      53432 deleted literals)
+subsumption left:     203192 (      2267 subsumed,      53432 deleted literals)
+subsumption left:     202157 (      2302 subsumed,      53432 deleted literals)
+subsumption left:     201129 (      2330 subsumed,      53432 deleted literals)
+subsumption left:     200088 (      2371 subsumed,      53432 deleted literals)
+subsumption left:     199057 (      2402 subsumed,      53432 deleted literals)
+subsumption left:     198025 (      2434 subsumed,      53432 deleted literals)
+subsumption left:     196991 (      2468 subsumed,      53432 deleted literals)
+subsumption left:     195954 (      2505 subsumed,      53432 deleted literals)
+subsumption left:     194917 (      2542 subsumed,      53432 deleted literals)
+subsumption left:     193891 (      2568 subsumed,      53432 deleted literals)
+subsumption left:     192850 (      2609 subsumed,      53432 deleted literals)
+subsumption left:     191815 (      2644 subsumed,      53432 deleted literals)
+subsumption left:     190787 (      2672 subsumed,      53432 deleted literals)
+subsumption left:     189746 (      2713 subsumed,      53432 deleted literals)
+subsumption left:     188715 (      2744 subsumed,      53432 deleted literals)
+subsumption left:     187683 (      2776 subsumed,      53432 deleted literals)
+subsumption left:     186649 (      2810 subsumed,      53432 deleted literals)
+subsumption left:     185612 (      2847 subsumed,      53432 deleted literals)
+subsumption left:     184583 (      2876 subsumed,      53432 deleted literals)
+subsumption left:     183549 (      2910 subsumed,      53432 deleted literals)
+subsumption left:     182508 (      2951 subsumed,      53432 deleted literals)
+subsumption left:     181483 (      2976 subsumed,      53432 deleted literals)
+subsumption left:     180483 (      2976 subsumed,      53432 deleted literals)
+subsumption left:     179483 (      2976 subsumed,      53432 deleted literals)
+subsumption left:     178483 (      2976 subsumed,      53432 deleted literals)
+subsumption left:     177483 (      2976 subsumed,      53432 deleted literals)
+subsumption left:     176483 (      2976 subsumed,      53432 deleted literals)
+subsumption left:     175483 (      2976 subsumed,      53432 deleted literals)
+subsumption left:     174483 (      2976 subsumed,      53432 deleted literals)
+subsumption left:     173483 (      2976 subsumed,      53432 deleted literals)
+subsumption left:     172483 (      2976 subsumed,      53432 deleted literals)
+subsumption left:     171483 (      2976 subsumed,      53432 deleted literals)
+subsumption left:     170483 (      2976 subsumed,      53432 deleted literals)
+subsumption left:     169483 (      2976 subsumed,      53432 deleted literals)
+subsumption left:     168483 (      2976 subsumed,      53432 deleted literals)
+subsumption left:     167483 (      2976 subsumed,      53432 deleted literals)
+subsumption left:     166483 (      2976 subsumed,      53432 deleted literals)
+subsumption left:     165483 (      2976 subsumed,      53432 deleted literals)
+subsumption left:     164483 (      2976 subsumed,      53432 deleted literals)
+subsumption left:     163483 (      2976 subsumed,      53432 deleted literals)
+subsumption left:     162483 (      2976 subsumed,      53432 deleted literals)
+subsumption left:     161483 (      2976 subsumed,      53432 deleted literals)
+subsumption left:     160483 (      2976 subsumed,      53432 deleted literals)
+subsumption left:     159483 (      2976 subsumed,      53432 deleted literals)
+subsumption left:     158441 (      3019 subsumed,      53432 deleted literals)
+subsumption left:     157285 (      3175 subsumed,      53432 deleted literals)
+subsumption left:     156132 (      3330 subsumed,      53432 deleted literals)
+subsumption left:     154976 (      3486 subsumed,      53432 deleted literals)
+subsumption left:     153822 (      3640 subsumed,      53432 deleted literals)
+subsumption left:     152667 (      3795 subsumed,      53432 deleted literals)
+subsumption left:     151511 (      3950 subsumed,      53432 deleted literals)
+subsumption left:     150355 (      4106 subsumed,      53432 deleted literals)
+subsumption left:     149200 (      4260 subsumed,      53432 deleted literals)
+subsumption left:     148045 (      4416 subsumed,      53432 deleted literals)
+subsumption left:     146890 (      4571 subsumed,      53432 deleted literals)
+subsumption left:     145735 (      4727 subsumed,      53432 deleted literals)
+subsumption left:     144581 (      4881 subsumed,      53432 deleted literals)
+subsumption left:     143425 (      5036 subsumed,      53432 deleted literals)
+subsumption left:     142269 (      5192 subsumed,      53432 deleted literals)
+subsumption left:     141114 (      5346 subsumed,      53432 deleted literals)
+subsumption left:     139958 (      5502 subsumed,      53432 deleted literals)
+subsumption left:     138803 (      5658 subsumed,      53432 deleted literals)
+subsumption left:     137649 (      5812 subsumed,      53432 deleted literals)
+subsumption left:     136494 (      5968 subsumed,      53432 deleted literals)
+subsumption left:     135339 (      6122 subsumed,      53432 deleted literals)
+subsumption left:     134183 (      6277 subsumed,      53432 deleted literals)
+subsumption left:     133027 (      6432 subsumed,      53432 deleted literals)
+subsumption left:     131873 (      6589 subsumed,      53432 deleted literals)
+subsumption left:     130717 (      6744 subsumed,      53432 deleted literals)
+subsumption left:     129563 (      6899 subsumed,      53432 deleted literals)
+subsumption left:     128408 (      7054 subsumed,      53432 deleted literals)
+subsumption left:     127252 (      7209 subsumed,      53432 deleted literals)
+subsumption left:     126097 (      7363 subsumed,      53432 deleted literals)
+subsumption left:     124941 (      7519 subsumed,      53432 deleted literals)
+subsumption left:     123785 (      7675 subsumed,      53432 deleted literals)
+subsumption left:     122632 (      7830 subsumed,      53432 deleted literals)
+subsumption left:     121476 (      7986 subsumed,      53432 deleted literals)
+subsumption left:     120322 (      8140 subsumed,      53432 deleted literals)
+subsumption left:     119167 (      8295 subsumed,      53432 deleted literals)
+subsumption left:     118011 (      8450 subsumed,      53432 deleted literals)
+subsumption left:     116855 (      8606 subsumed,      53432 deleted literals)
+subsumption left:     115700 (      8760 subsumed,      53432 deleted literals)
+subsumption left:     114545 (      8916 subsumed,      53432 deleted literals)
+subsumption left:     113390 (      9071 subsumed,      53432 deleted literals)
+subsumption left:     112235 (      9227 subsumed,      53432 deleted literals)
+subsumption left:     111081 (      9381 subsumed,      53432 deleted literals)
+subsumption left:     109925 (      9536 subsumed,      53432 deleted literals)
+subsumption left:     108769 (      9692 subsumed,      53432 deleted literals)
+subsumption left:     107614 (      9846 subsumed,      53432 deleted literals)
+subsumption left:     106458 (     10002 subsumed,      53432 deleted literals)
+subsumption left:     105303 (     10158 subsumed,      53432 deleted literals)
+subsumption left:     104149 (     10312 subsumed,      53432 deleted literals)
+subsumption left:     102994 (     10468 subsumed,      53432 deleted literals)
+subsumption left:     101839 (     10622 subsumed,      53432 deleted literals)
+subsumption left:     100683 (     10777 subsumed,      53432 deleted literals)
+subsumption left:      99527 (     10932 subsumed,      53432 deleted literals)
+subsumption left:      98373 (     11089 subsumed,      53432 deleted literals)
+subsumption left:      97217 (     11244 subsumed,      53432 deleted literals)
+subsumption left:      96063 (     11399 subsumed,      53432 deleted literals)
+subsumption left:      94908 (     11554 subsumed,      53432 deleted literals)
+subsumption left:      93752 (     11709 subsumed,      53432 deleted literals)
+subsumption left:      92597 (     11863 subsumed,      53432 deleted literals)
+subsumption left:      91441 (     12019 subsumed,      53432 deleted literals)
+subsumption left:      90285 (     12175 subsumed,      53432 deleted literals)
+subsumption left:      89132 (     12330 subsumed,      53432 deleted literals)
+subsumption left:      87976 (     12486 subsumed,      53432 deleted literals)
+subsumption left:      86822 (     12640 subsumed,      53432 deleted literals)
+subsumption left:      85667 (     12795 subsumed,      53432 deleted literals)
+subsumption left:      84511 (     12950 subsumed,      53432 deleted literals)
+subsumption left:      83355 (     13106 subsumed,      53432 deleted literals)
+subsumption left:      82200 (     13260 subsumed,      53432 deleted literals)
+subsumption left:      81045 (     13416 subsumed,      53432 deleted literals)
+subsumption left:      79890 (     13571 subsumed,      53432 deleted literals)
+subsumption left:      78735 (     13727 subsumed,      53432 deleted literals)
+subsumption left:      77581 (     13881 subsumed,      53432 deleted literals)
+subsumption left:      76425 (     14036 subsumed,      53432 deleted literals)
+subsumption left:      75269 (     14192 subsumed,      53432 deleted literals)
+subsumption left:      74114 (     14346 subsumed,      53432 deleted literals)
+subsumption left:      72958 (     14502 subsumed,      53432 deleted literals)
+subsumption left:      71803 (     14658 subsumed,      53432 deleted literals)
+subsumption left:      70649 (     14812 subsumed,      53432 deleted literals)
+subsumption left:      69494 (     14968 subsumed,      53432 deleted literals)
+subsumption left:      68339 (     15122 subsumed,      53432 deleted literals)
+subsumption left:      67183 (     15277 subsumed,      53432 deleted literals)
+subsumption left:      66027 (     15432 subsumed,      53432 deleted literals)
+subsumption left:      64873 (     15589 subsumed,      53432 deleted literals)
+subsumption left:      63717 (     15744 subsumed,      53432 deleted literals)
+subsumption left:      62563 (     15899 subsumed,      53432 deleted literals)
+subsumption left:      61408 (     16054 subsumed,      53432 deleted literals)
+subsumption left:      60252 (     16209 subsumed,      53432 deleted literals)
+subsumption left:      59097 (     16363 subsumed,      53432 deleted literals)
+subsumption left:      57941 (     16519 subsumed,      53432 deleted literals)
+subsumption left:      56785 (     16675 subsumed,      53432 deleted literals)
+subsumption left:      55632 (     16830 subsumed,      53432 deleted literals)
+subsumption left:      54476 (     16986 subsumed,      53432 deleted literals)
+subsumption left:      53335 (     17124 subsumed,      53432 deleted literals)
+subsumption left:      52335 (     17124 subsumed,      53432 deleted literals)
+subsumption left:      51335 (     17124 subsumed,      53432 deleted literals)
+subsumption left:      50335 (     17124 subsumed,      53432 deleted literals)
+subsumption left:      49335 (     17124 subsumed,      53432 deleted literals)
+subsumption left:      48335 (     17124 subsumed,      53432 deleted literals)
+subsumption left:      47335 (     17124 subsumed,      53432 deleted literals)
+subsumption left:      46335 (     17124 subsumed,      53432 deleted literals)
+subsumption left:      45335 (     17124 subsumed,      53432 deleted literals)
+subsumption left:      44335 (     17124 subsumed,      53432 deleted literals)
+subsumption left:      43335 (     17124 subsumed,      53432 deleted literals)
+subsumption left:      42335 (     17124 subsumed,      53432 deleted literals)
+subsumption left:      41335 (     17124 subsumed,      53432 deleted literals)
+subsumption left:      40335 (     17124 subsumed,      53432 deleted literals)
+subsumption left:      39335 (     17124 subsumed,      53432 deleted literals)
+subsumption left:      38335 (     17124 subsumed,      53432 deleted literals)
+subsumption left:      37335 (     17124 subsumed,      53432 deleted literals)
+subsumption left:      36335 (     17124 subsumed,      53432 deleted literals)
+subsumption left:      35335 (     17124 subsumed,      53432 deleted literals)
+subsumption left:      34335 (     17124 subsumed,      53432 deleted literals)
+subsumption left:      33335 (     17124 subsumed,      53432 deleted literals)
+subsumption left:      32335 (     17124 subsumed,      53432 deleted literals)
+subsumption left:      31335 (     17124 subsumed,      53432 deleted literals)
+subsumption left:      30335 (     17124 subsumed,      53432 deleted literals)
+subsumption left:      29335 (     17124 subsumed,      53432 deleted literals)
+subsumption left:      28335 (     17124 subsumed,      53432 deleted literals)
+subsumption left:      27335 (     17124 subsumed,      53432 deleted literals)
+subsumption left:      26335 (     17124 subsumed,      53432 deleted literals)
+subsumption left:      25335 (     17124 subsumed,      53432 deleted literals)
+subsumption left:      24335 (     17124 subsumed,      53432 deleted literals)
+subsumption left:      23335 (     17124 subsumed,      53432 deleted literals)
+subsumption left:      22335 (     17124 subsumed,      53432 deleted literals)
+subsumption left:      21335 (     17124 subsumed,      53432 deleted literals)
+subsumption left:      20335 (     17124 subsumed,      53432 deleted literals)
+subsumption left:      19335 (     17124 subsumed,      53432 deleted literals)
+subsumption left:      18335 (     17124 subsumed,      53432 deleted literals)
+subsumption left:      17335 (     17124 subsumed,      53432 deleted literals)
+subsumption left:      16335 (     17124 subsumed,      53432 deleted literals)
+subsumption left:      15335 (     17124 subsumed,      53432 deleted literals)
+subsumption left:      14335 (     17124 subsumed,      53432 deleted literals)
+subsumption left:      13335 (     17124 subsumed,      53432 deleted literals)
+subsumption left:      12335 (     17124 subsumed,      53432 deleted literals)
+subsumption left:      11335 (     17124 subsumed,      53432 deleted literals)
+subsumption left:      10335 (     17124 subsumed,      53432 deleted literals)
+subsumption left:       9335 (     17124 subsumed,      53432 deleted literals)
+subsumption left:       8335 (     17124 subsumed,      53432 deleted literals)
+subsumption left:       7335 (     17124 subsumed,      53432 deleted literals)
+subsumption left:       6335 (     17124 subsumed,      53432 deleted literals)
+subsumption left:       5335 (     17124 subsumed,      53432 deleted literals)
+subsumption left:       4335 (     17124 subsumed,      53432 deleted literals)
+subsumption left:       3335 (     17124 subsumed,      53432 deleted literals)
+subsumption left:       2335 (     17124 subsumed,      53432 deleted literals)
+subsumption left:       1335 (     17124 subsumed,      53432 deleted literals)
+subsumption left:        335 (     17124 subsumed,      53432 deleted literals)
+subsumption left:          0 (     17171 subsumed,      53555 deleted literals)
+subsumption left:          0 (     17345 subsumed,      53995 deleted literals)
+subsumption left:          0 (     17520 subsumed,      54444 deleted literals)
+subsumption left:          0 (     17694 subsumed,      54892 deleted literals)
+subsumption left:          0 (     17753 subsumed,      55051 deleted literals)
+elimination left:     213167
+elimination left:     213067
+elimination left:     212967
+elimination left:     212767
+elimination left:     212667
+elimination left:     212567
+elimination left:     212467
+elimination left:     212367
+elimination left:     212267
+elimination left:     212167
+elimination left:     212067
+elimination left:     211967
+elimination left:     211867
+elimination left:     211767
+elimination left:     211667
+elimination left:     211567
+elimination left:     211467
+elimination left:     211367
+elimination left:     211267
+elimination left:     211167
+elimination left:     211067
+elimination left:     210967
+elimination left:     210867
+elimination left:     210367
+elimination left:     210067
+elimination left:     209967
+elimination left:     209867
+elimination left:     209767
+elimination left:     209467
+elimination left:     209367
+elimination left:     209267
+elimination left:     209167
+elimination left:     209067
+elimination left:     208967
+elimination left:     208867
+elimination left:     208667
+elimination left:     208567
+elimination left:     208467
+elimination left:     208367
+elimination left:     208267
+elimination left:     208167
+elimination left:     208067
+elimination left:     207967
+elimination left:     207867
+elimination left:     207767
+elimination left:     207667
+elimination left:     207567
+elimination left:     207467
+elimination left:     207367
+elimination left:     207267
+elimination left:     207067
+elimination left:     206967
+elimination left:     206867
+elimination left:     206767
+elimination left:     206667
+elimination left:     206567
+elimination left:     206167
+elimination left:     206067
+elimination left:     205867
+elimination left:     205767
+elimination left:     205667
+elimination left:     205567
+elimination left:     205467
+elimination left:     205367
+elimination left:     205267
+elimination left:     205167
+elimination left:     205067
+elimination left:     204967
+elimination left:     204867
+elimination left:     204767
+elimination left:     204667
+elimination left:     204567
+elimination left:     204467
+elimination left:     204367
+elimination left:     204267
+elimination left:     204167
+elimination left:     204067
+elimination left:     203967
+elimination left:     203867
+elimination left:     203767
+elimination left:     203667
+elimination left:     203567
+elimination left:     203467
+elimination left:     203367
+elimination left:     203167
+elimination left:     203067
+elimination left:     202967
+elimination left:     202867
+elimination left:     202767
+elimination left:     202667
+elimination left:     202567
+elimination left:     202467
+elimination left:     202367
+elimination left:     202267
+elimination left:     202167
+elimination left:     202067
+elimination left:     201967
+elimination left:     201867
+elimination left:     201767
+elimination left:     201567
+elimination left:     201467
+elimination left:     201267
+elimination left:     201167
+elimination left:     201067
+elimination left:     200967
+elimination left:     200867
+elimination left:     200767
+elimination left:     200667
+elimination left:     200567
+elimination left:     200467
+elimination left:     200367
+elimination left:     200267
+elimination left:     200167
+elimination left:     200067
+elimination left:     199967
+elimination left:     199667
+elimination left:     199567
+elimination left:     199467
+elimination left:     199267
+elimination left:     199167
+elimination left:     199067
+elimination left:     198967
+elimination left:     198867
+elimination left:     198767
+elimination left:     198667
+elimination left:     198567
+elimination left:     198467
+elimination left:     198367
+elimination left:     198267
+elimination left:     197967
+elimination left:     197867
+elimination left:     197767
+elimination left:     197667
+elimination left:     197567
+elimination left:     197367
+elimination left:     197267
+elimination left:     197167
+elimination left:     197067
+elimination left:     196967
+elimination left:     196867
+elimination left:     196767
+elimination left:     196667
+elimination left:     196467
+elimination left:     196367
+elimination left:     196067
+elimination left:     195867
+elimination left:     195767
+elimination left:     195667
+elimination left:     195567
+elimination left:     195367
+elimination left:     195267
+elimination left:     195167
+elimination left:     195067
+elimination left:     194967
+elimination left:     194867
+elimination left:     194767
+elimination left:     194667
+elimination left:     194567
+elimination left:     194367
+elimination left:     194167
+elimination left:     194067
+elimination left:     193967
+elimination left:     193867
+elimination left:     193767
+elimination left:     193667
+elimination left:     193467
+elimination left:     193367
+elimination left:     193267
+elimination left:     193167
+elimination left:     193067
+elimination left:     192367
+elimination left:     192067
+elimination left:     191967
+elimination left:     191867
+elimination left:     191767
+elimination left:     191667
+elimination left:     191567
+elimination left:     191467
+elimination left:     191367
+elimination left:     191267
+elimination left:     191167
+elimination left:     191067
+elimination left:     190967
+elimination left:     190867
+elimination left:     190767
+elimination left:     190667
+elimination left:     190567
+elimination left:     190468
+elimination left:     190368
+elimination left:     190269
+elimination left:     190170
+elimination left:     190070
+elimination left:     189971
+elimination left:     189872
+elimination left:     189773
+elimination left:     189675
+elimination left:     189576
+elimination left:     189478
+elimination left:     189378
+elimination left:     189281
+elimination left:     189182
+elimination left:     189083
+elimination left:     188985
+elimination left:     188886
+elimination left:     188788
+elimination left:     188689
+elimination left:     188590
+elimination left:     188492
+elimination left:     188395
+elimination left:     188296
+elimination left:     188196
+elimination left:     188098
+elimination left:     187999
+elimination left:     187900
+elimination left:     187803
+elimination left:     187703
+elimination left:     187603
+elimination left:     187503
+elimination left:     187405
+elimination left:     187305
+elimination left:     187207
+elimination left:     187108
+elimination left:     187010
+elimination left:     186910
+elimination left:     186811
+elimination left:     186711
+elimination left:     186612
+elimination left:     186512
+elimination left:     186412
+elimination left:     186314
+elimination left:     186217
+elimination left:     186117
+elimination left:     186017
+elimination left:     185919
+elimination left:     185822
+elimination left:     185722
+elimination left:     185622
+elimination left:     185522
+elimination left:     185422
+elimination left:     185325
+elimination left:     185226
+elimination left:     185128
+elimination left:     185030
+elimination left:     184932
+elimination left:     184834
+elimination left:     184738
+elimination left:     184640
+elimination left:     184542
+elimination left:     184444
+elimination left:     184344
+elimination left:     184245
+elimination left:     184146
+elimination left:     184048
+elimination left:     183948
+elimination left:     183850
+elimination left:     183750
+elimination left:     183651
+elimination left:     183551
+elimination left:     183452
+elimination left:     183352
+elimination left:     183252
+elimination left:     183154
+elimination left:     183056
+elimination left:     182958
+elimination left:     182860
+elimination left:     182762
+elimination left:     182664
+elimination left:     182566
+elimination left:     182466
+elimination left:     182366
+elimination left:     182266
+elimination left:     182167
+elimination left:     182068
+elimination left:     181968
+elimination left:     181870
+elimination left:     181770
+elimination left:     181671
+elimination left:     181571
+elimination left:     181471
+elimination left:     181372
+elimination left:     181272
+elimination left:     181172
+elimination left:     181072
+elimination left:     180972
+elimination left:     180872
+elimination left:     180774
+elimination left:     180676
+elimination left:     180577
+elimination left:     180477
+elimination left:     180378
+elimination left:     180279
+elimination left:     180179
+elimination left:     180080
+elimination left:     179981
+elimination left:     179881
+elimination left:     179782
+elimination left:     179683
+elimination left:     179583
+elimination left:     179483
+elimination left:     179383
+elimination left:     179283
+elimination left:     179183
+elimination left:     179083
+elimination left:     178984
+elimination left:     178884
+elimination left:     178785
+elimination left:     178687
+elimination left:     178589
+elimination left:     178490
+elimination left:     178390
+elimination left:     178291
+elimination left:     178192
+elimination left:     178092
+elimination left:     177992
+elimination left:     177892
+elimination left:     177792
+elimination left:     177694
+elimination left:     177595
+elimination left:     177495
+elimination left:     177395
+elimination left:     177297
+elimination left:     177197
+elimination left:     177098
+elimination left:     176998
+elimination left:     176898
+elimination left:     176799
+elimination left:     176701
+elimination left:     176601
+elimination left:     176501
+elimination left:     176402
+elimination left:     176304
+elimination left:     176204
+elimination left:     176104
+elimination left:     176007
+elimination left:     175907
+elimination left:     175810
+elimination left:     175713
+elimination left:     175614
+elimination left:     175518
+elimination left:     175419
+elimination left:     175320
+elimination left:     175220
+elimination left:     175120
+elimination left:     175021
+elimination left:     174922
+elimination left:     174824
+elimination left:     174724
+elimination left:     174624
+elimination left:     174525
+elimination left:     174427
+elimination left:     174327
+elimination left:     174228
+elimination left:     174133
+elimination left:     174037
+elimination left:     173942
+elimination left:     173843
+elimination left:     173744
+elimination left:     173644
+elimination left:     173545
+elimination left:     173448
+elimination left:     173350
+elimination left:     173250
+elimination left:     173152
+elimination left:     173052
+elimination left:     172956
+elimination left:     172858
+elimination left:     172760
+elimination left:     172664
+elimination left:     172564
+elimination left:     172464
+elimination left:     172367
+elimination left:     172267
+elimination left:     172167
+elimination left:     172067
+elimination left:     171968
+elimination left:     171868
+elimination left:     171771
+elimination left:     171671
+elimination left:     171574
+elimination left:     171479
+elimination left:     171384
+elimination left:     171288
+elimination left:     171189
+elimination left:     171089
+elimination left:     170990
+elimination left:     170890
+elimination left:     170791
+elimination left:     170695
+elimination left:     170597
+elimination left:     170497
+elimination left:     170398
+elimination left:     170299
+elimination left:     170199
+elimination left:     170099
+elimination left:     169999
+elimination left:     169900
+elimination left:     169801
+elimination left:     169704
+elimination left:     169605
+elimination left:     169507
+elimination left:     169408
+elimination left:     169309
+elimination left:     169213
+elimination left:     169113
+elimination left:     169013
+elimination left:     168913
+elimination left:     168816
+elimination left:     168717
+elimination left:     168618
+elimination left:     168521
+elimination left:     168421
+elimination left:     168323
+elimination left:     168223
+elimination left:     168123
+elimination left:     168027
+elimination left:     167928
+elimination left:     167829
+elimination left:     167731
+elimination left:     167631
+elimination left:     167532
+elimination left:     167434
+elimination left:     167335
+elimination left:     167239
+elimination left:     167140
+elimination left:     167041
+elimination left:     166941
+elimination left:     166842
+elimination left:     166742
+elimination left:     166643
+elimination left:     166544
+elimination left:     166445
+elimination left:     166345
+elimination left:     166245
+elimination left:     166146
+elimination left:     166047
+elimination left:     165947
+elimination left:     165847
+elimination left:     165747
+elimination left:     165649
+elimination left:     165550
+elimination left:     165450
+elimination left:     165351
+elimination left:     165252
+elimination left:     165153
+elimination left:     165053
+elimination left:     164957
+elimination left:     164860
+elimination left:     164762
+elimination left:     164663
+elimination left:     164566
+elimination left:     164466
+elimination left:     164367
+elimination left:     164270
+elimination left:     164171
+elimination left:     164074
+elimination left:     163974
+elimination left:     163876
+elimination left:     163779
+elimination left:     163682
+elimination left:     163583
+elimination left:     163484
+elimination left:     163386
+elimination left:     163290
+elimination left:     163191
+elimination left:     163092
+elimination left:     162993
+elimination left:     162895
+elimination left:     162797
+elimination left:     162699
+elimination left:     162600
+elimination left:     162501
+elimination left:     162403
+elimination left:     162308
+elimination left:     162212
+elimination left:     162114
+elimination left:     162016
+elimination left:     161918
+elimination left:     161823
+elimination left:     161728
+elimination left:     161631
+elimination left:     161534
+elimination left:     161436
+elimination left:     161345
+elimination left:     161254
+elimination left:     161156
+elimination left:     161058
+elimination left:     160960
+elimination left:     160862
+elimination left:     160765
+elimination left:     160668
+elimination left:     160570
+elimination left:     160471
+elimination left:     160373
+elimination left:     160275
+elimination left:     160177
+elimination left:     160079
+elimination left:     159984
+elimination left:     159885
+elimination left:     159786
+elimination left:     159687
+elimination left:     159589
+elimination left:     159492
+elimination left:     159394
+elimination left:     159297
+elimination left:     159197
+elimination left:     159102
+elimination left:     159005
+elimination left:     158905
+elimination left:     158809
+elimination left:     158710
+elimination left:     158612
+elimination left:     158514
+elimination left:     158417
+elimination left:     158320
+elimination left:     158222
+elimination left:     158123
+elimination left:     158024
+elimination left:     157927
+elimination left:     157828
+elimination left:     157732
+elimination left:     157634
+elimination left:     157536
+elimination left:     157439
+elimination left:     157342
+elimination left:     157244
+elimination left:     157146
+elimination left:     157047
+elimination left:     156949
+elimination left:     156852
+elimination left:     156752
+elimination left:     156654
+elimination left:     156557
+elimination left:     156460
+elimination left:     156361
+elimination left:     156264
+elimination left:     156166
+elimination left:     156067
+elimination left:     155970
+elimination left:     155872
+elimination left:     155777
+elimination left:     155679
+elimination left:     155582
+elimination left:     155483
+elimination left:     155388
+elimination left:     155290
+elimination left:     155192
+elimination left:     155094
+elimination left:     154994
+elimination left:     154896
+elimination left:     154798
+elimination left:     154701
+elimination left:     154603
+elimination left:     154505
+elimination left:     154405
+elimination left:     154306
+elimination left:     154209
+elimination left:     154110
+elimination left:     154014
+elimination left:     153914
+elimination left:     153817
+elimination left:     153718
+elimination left:     153619
+elimination left:     153520
+elimination left:     153422
+elimination left:     153323
+elimination left:     153223
+elimination left:     153126
+elimination left:     153029
+elimination left:     152932
+elimination left:     152833
+elimination left:     152735
+elimination left:     152637
+elimination left:     152542
+elimination left:     152443
+elimination left:     152343
+elimination left:     152246
+elimination left:     152150
+elimination left:     152051
+elimination left:     151952
+elimination left:     151855
+elimination left:     151757
+elimination left:     151660
+elimination left:     151563
+elimination left:     151466
+elimination left:     151368
+elimination left:     151270
+elimination left:     151170
+elimination left:     151073
+elimination left:     150976
+elimination left:     150878
+elimination left:     150780
+elimination left:     150681
+elimination left:     150582
+elimination left:     150484
+elimination left:     150385
+elimination left:     150286
+elimination left:     150188
+elimination left:     150090
+elimination left:     149992
+elimination left:     149894
+elimination left:     149797
+elimination left:     149697
+elimination left:     149600
+elimination left:     149502
+elimination left:     149402
+elimination left:     149303
+elimination left:     149204
+elimination left:     149106
+elimination left:     149006
+elimination left:     148906
+elimination left:     148809
+elimination left:     148709
+elimination left:     148611
+elimination left:     148514
+elimination left:     148415
+elimination left:     148316
+elimination left:     148219
+elimination left:     148121
+elimination left:     148023
+elimination left:     147927
+elimination left:     147832
+elimination left:     147733
+elimination left:     147633
+elimination left:     147533
+elimination left:     147435
+elimination left:     147339
+elimination left:     147241
+elimination left:     147145
+elimination left:     147047
+elimination left:     146949
+elimination left:     146851
+elimination left:     146752
+elimination left:     146654
+elimination left:     146557
+elimination left:     146458
+elimination left:     146362
+elimination left:     146264
+elimination left:     146165
+elimination left:     146066
+elimination left:     145967
+elimination left:     145868
+elimination left:     145768
+elimination left:     145670
+elimination left:     145570
+elimination left:     145472
+elimination left:     145372
+elimination left:     145272
+elimination left:     145172
+elimination left:     145072
+elimination left:     144972
+elimination left:     144873
+elimination left:     144773
+elimination left:     144676
+elimination left:     144577
+elimination left:     144477
+elimination left:     144377
+elimination left:     144278
+elimination left:     144180
+elimination left:     144082
+elimination left:     143982
+elimination left:     143884
+elimination left:     143784
+elimination left:     143685
+elimination left:     143586
+elimination left:     143488
+elimination left:     143388
+elimination left:     143288
+elimination left:     143189
+elimination left:     143091
+elimination left:     142992
+elimination left:     142893
+elimination left:     142793
+elimination left:     142695
+elimination left:     142596
+elimination left:     142497
+elimination left:     142398
+elimination left:     142298
+elimination left:     142198
+elimination left:     142098
+elimination left:     141999
+elimination left:     141900
+elimination left:     141801
+elimination left:     141702
+elimination left:     141602
+elimination left:     141502
+elimination left:     141403
+elimination left:     141303
+elimination left:     141205
+elimination left:     141106
+elimination left:     141007
+elimination left:     140907
+elimination left:     140807
+elimination left:     140708
+elimination left:     140609
+elimination left:     140509
+elimination left:     140409
+elimination left:     140311
+elimination left:     140211
+elimination left:     140113
+elimination left:     140013
+elimination left:     139914
+elimination left:     139814
+elimination left:     139714
+elimination left:     139615
+elimination left:     139515
+elimination left:     139415
+elimination left:     139316
+elimination left:     139216
+elimination left:     139116
+elimination left:     139017
+elimination left:     138917
+elimination left:     138819
+elimination left:     138719
+elimination left:     138619
+elimination left:     138521
+elimination left:     138421
+elimination left:     138321
+elimination left:     138221
+elimination left:     138121
+elimination left:     138021
+elimination left:     137921
+elimination left:     137821
+elimination left:     137721
+elimination left:     137621
+elimination left:     137521
+elimination left:     137422
+elimination left:     137322
+elimination left:     137222
+elimination left:     137122
+elimination left:     137023
+elimination left:     136924
+elimination left:     136824
+elimination left:     136724
+elimination left:     136624
+elimination left:     136524
+elimination left:     136425
+elimination left:     136326
+elimination left:     136226
+elimination left:     136126
+elimination left:     136026
+elimination left:     135926
+elimination left:     135827
+elimination left:     135727
+elimination left:     135627
+elimination left:     135527
+elimination left:     135427
+elimination left:     135328
+elimination left:     135228
+elimination left:     135128
+elimination left:     135029
+elimination left:     134930
+elimination left:     134831
+elimination left:     134731
+elimination left:     134631
+elimination left:     134531
+elimination left:     134431
+elimination left:     134331
+elimination left:     134232
+elimination left:     134132
+elimination left:     134032
+elimination left:     133932
+elimination left:     133832
+elimination left:     133732
+elimination left:     133633
+elimination left:     133533
+elimination left:     133433
+elimination left:     133333
+elimination left:     133234
+elimination left:     133134
+elimination left:     133034
+elimination left:     132935
+elimination left:     132836
+elimination left:     132736
+elimination left:     132639
+elimination left:     132539
+elimination left:     132440
+elimination left:     132340
+elimination left:     132240
+elimination left:     132140
+elimination left:     132040
+elimination left:     131940
+elimination left:     131840
+elimination left:     131740
+elimination left:     131640
+elimination left:     131541
+elimination left:     131441
+elimination left:     131343
+elimination left:     131243
+elimination left:     131143
+elimination left:     131044
+elimination left:     130944
+elimination left:     130844
+elimination left:     130744
+elimination left:     130645
+elimination left:     130546
+elimination left:     130446
+elimination left:     130346
+elimination left:     130247
+elimination left:     130151
+elimination left:     130051
+elimination left:     129951
+elimination left:     129852
+elimination left:     129752
+elimination left:     129654
+elimination left:     129557
+elimination left:     129459
+elimination left:     129360
+elimination left:     129261
+elimination left:     129161
+elimination left:     129061
+elimination left:     128961
+elimination left:     128863
+elimination left:     128763
+elimination left:     128663
+elimination left:     128563
+elimination left:     128465
+elimination left:     128366
+elimination left:     128266
+elimination left:     128168
+elimination left:     128072
+elimination left:     127974
+elimination left:     127877
+elimination left:     127777
+elimination left:     127678
+elimination left:     127578
+elimination left:     127478
+elimination left:     127378
+elimination left:     127278
+elimination left:     127178
+elimination left:     127079
+elimination left:     126979
+elimination left:     126879
+elimination left:     126780
+elimination left:     126683
+elimination left:     126584
+elimination left:     126485
+elimination left:     126385
+elimination left:     126287
+elimination left:     126188
+elimination left:     126089
+elimination left:     125990
+elimination left:     125890
+elimination left:     125790
+elimination left:     125690
+elimination left:     125590
+elimination left:     125492
+elimination left:     125394
+elimination left:     125294
+elimination left:     125194
+elimination left:     125095
+elimination left:     124996
+elimination left:     124896
+elimination left:     124796
+elimination left:     124696
+elimination left:     124596
+elimination left:     124497
+elimination left:     124399
+elimination left:     124299
+elimination left:     124200
+elimination left:     124100
+elimination left:     124000
+elimination left:     123901
+elimination left:     123801
+elimination left:     123701
+elimination left:     123602
+elimination left:     123503
+elimination left:     123403
+elimination left:     123303
+elimination left:     123204
+elimination left:     123105
+elimination left:     123005
+elimination left:     122906
+elimination left:     122806
+elimination left:     122706
+elimination left:     122608
+elimination left:     122509
+elimination left:     122409
+elimination left:     122312
+elimination left:     122212
+elimination left:     122114
+elimination left:     122016
+elimination left:     121916
+elimination left:     121816
+elimination left:     121717
+elimination left:     121617
+elimination left:     121517
+elimination left:     121417
+elimination left:     121318
+elimination left:     121218
+elimination left:     121118
+elimination left:     121018
+elimination left:     120918
+elimination left:     120819
+elimination left:     120719
+elimination left:     120619
+elimination left:     120520
+elimination left:     120420
+elimination left:     120320
+elimination left:     120220
+elimination left:     120121
+elimination left:     120021
+elimination left:     119921
+elimination left:     119822
+elimination left:     119722
+elimination left:     119622
+elimination left:     119522
+elimination left:     119424
+elimination left:     119324
+elimination left:     119224
+elimination left:     119125
+elimination left:     119025
+elimination left:     118925
+elimination left:     118825
+elimination left:     118726
+elimination left:     118626
+elimination left:     118526
+elimination left:     118426
+elimination left:     118326
+elimination left:     118226
+elimination left:     118126
+elimination left:     118027
+elimination left:     117927
+elimination left:     117828
+elimination left:     117728
+elimination left:     117628
+elimination left:     117528
+elimination left:     117428
+elimination left:     117329
+elimination left:     117229
+elimination left:     117131
+elimination left:     117031
+elimination left:     116931
+elimination left:     116831
+elimination left:     116731
+elimination left:     116634
+elimination left:     116536
+elimination left:     116436
+elimination left:     116337
+elimination left:     116237
+elimination left:     116140
+elimination left:     116040
+elimination left:     115941
+elimination left:     115842
+elimination left:     115742
+elimination left:     115644
+elimination left:     115544
+elimination left:     115445
+elimination left:     115346
+elimination left:     115247
+elimination left:     115147
+elimination left:     115049
+elimination left:     114949
+elimination left:     114849
+elimination left:     114749
+elimination left:     114650
+elimination left:     114552
+elimination left:     114453
+elimination left:     114355
+elimination left:     114256
+elimination left:     114156
+elimination left:     114059
+elimination left:     113960
+elimination left:     113861
+elimination left:     113763
+elimination left:     113663
+elimination left:     113563
+elimination left:     113463
+elimination left:     113365
+elimination left:     113266
+elimination left:     113168
+elimination left:     113069
+elimination left:     112970
+elimination left:     112870
+elimination left:     112770
+elimination left:     112671
+elimination left:     112571
+elimination left:     112471
+elimination left:     112373
+elimination left:     112276
+elimination left:     112176
+elimination left:     112076
+elimination left:     111976
+elimination left:     111877
+elimination left:     111777
+elimination left:     111680
+elimination left:     111581
+elimination left:     111482
+elimination left:     111384
+elimination left:     111284
+elimination left:     111186
+elimination left:     111086
+elimination left:     110986
+elimination left:     110886
+elimination left:     110788
+elimination left:     110696
+elimination left:     110607
+elimination left:     110515
+elimination left:     110424
+elimination left:     110335
+elimination left:     110238
+elimination left:     110138
+elimination left:     110038
+elimination left:     109938
+elimination left:     109838
+elimination left:     109738
+elimination left:     109638
+elimination left:     109538
+elimination left:     109438
+elimination left:     109338
+elimination left:     109239
+elimination left:     109139
+elimination left:     109039
+elimination left:     108940
+elimination left:     108841
+elimination left:     108741
+elimination left:     108641
+elimination left:     108541
+elimination left:     108441
+elimination left:     108341
+elimination left:     108241
+elimination left:     108141
+elimination left:     108042
+elimination left:     107943
+elimination left:     107843
+elimination left:     107743
+elimination left:     107643
+elimination left:     107546
+elimination left:     107446
+elimination left:     107348
+elimination left:     107248
+elimination left:     107148
+elimination left:     107048
+elimination left:     106948
+elimination left:     106848
+elimination left:     106750
+elimination left:     106650
+elimination left:     106550
+elimination left:     106451
+elimination left:     106351
+elimination left:     106253
+elimination left:     106155
+elimination left:     106055
+elimination left:     105955
+elimination left:     105855
+elimination left:     105755
+elimination left:     105655
+elimination left:     105555
+elimination left:     105455
+elimination left:     105355
+elimination left:     105255
+elimination left:     105155
+elimination left:     105055
+elimination left:     104955
+elimination left:     104855
+elimination left:     104755
+elimination left:     104655
+elimination left:     104556
+elimination left:     104456
+elimination left:     104356
+elimination left:     104256
+elimination left:     104157
+elimination left:     104057
+elimination left:     103957
+elimination left:     103857
+elimination left:     103757
+elimination left:     103657
+elimination left:     103557
+elimination left:     103457
+elimination left:     103357
+elimination left:     103257
+elimination left:     103157
+elimination left:     103058
+elimination left:     102962
+elimination left:     102862
+elimination left:     102765
+elimination left:     102665
+elimination left:     102565
+elimination left:     102465
+elimination left:     102365
+elimination left:     102266
+elimination left:     102166
+elimination left:     102066
+elimination left:     101966
+elimination left:     101866
+elimination left:     101766
+elimination left:     101666
+elimination left:     101567
+elimination left:     101467
+elimination left:     101367
+elimination left:     101270
+elimination left:     101170
+elimination left:     101070
+elimination left:     100970
+elimination left:     100870
+elimination left:     100770
+elimination left:     100670
+elimination left:     100570
+elimination left:     100471
+elimination left:     100371
+elimination left:     100271
+elimination left:     100172
+elimination left:     100073
+elimination left:      99973
+elimination left:      99873
+elimination left:      99773
+elimination left:      99673
+elimination left:      99574
+elimination left:      99474
+elimination left:      99374
+elimination left:      99274
+elimination left:      99174
+elimination left:      99074
+elimination left:      98975
+elimination left:      98875
+elimination left:      98775
+elimination left:      98676
+elimination left:      98577
+elimination left:      98477
+elimination left:      98377
+elimination left:      98277
+elimination left:      98178
+elimination left:      98079
+elimination left:      97979
+elimination left:      97882
+elimination left:      97784
+elimination left:      97684
+elimination left:      97585
+elimination left:      97485
+elimination left:      97385
+elimination left:      97287
+elimination left:      97187
+elimination left:      97088
+elimination left:      96988
+elimination left:      96888
+elimination left:      96790
+elimination left:      96690
+elimination left:      96593
+elimination left:      96493
+elimination left:      96393
+elimination left:      96293
+elimination left:      96195
+elimination left:      96096
+elimination left:      96001
+elimination left:      95901
+elimination left:      95801
+elimination left:      95701
+elimination left:      95601
+elimination left:      95505
+elimination left:      95405
+elimination left:      95313
+elimination left:      95214
+elimination left:      95114
+elimination left:      95014
+elimination left:      94915
+elimination left:      94815
+elimination left:      94716
+elimination left:      94616
+elimination left:      94517
+elimination left:      94417
+elimination left:      94317
+elimination left:      94217
+elimination left:      94117
+elimination left:      94017
+elimination left:      93917
+elimination left:      93817
+elimination left:      93720
+elimination left:      93623
+elimination left:      93525
+elimination left:      93425
+elimination left:      93326
+elimination left:      93226
+elimination left:      93130
+elimination left:      93030
+elimination left:      92934
+elimination left:      92835
+elimination left:      92738
+elimination left:      92639
+elimination left:      92541
+elimination left:      92445
+elimination left:      92347
+elimination left:      92247
+elimination left:      92150
+elimination left:      92050
+elimination left:      91955
+elimination left:      91862
+elimination left:      91762
+elimination left:      91662
+elimination left:      91562
+elimination left:      91463
+elimination left:      91363
+elimination left:      91263
+elimination left:      91163
+elimination left:      91063
+elimination left:      90965
+elimination left:      90865
+elimination left:      90765
+elimination left:      90665
+elimination left:      90565
+elimination left:      90466
+elimination left:      90367
+elimination left:      90267
+elimination left:      90167
+elimination left:      90067
+elimination left:      89967
+elimination left:      89868
+elimination left:      89768
+elimination left:      89668
+elimination left:      89569
+elimination left:      89470
+elimination left:      89373
+elimination left:      89275
+elimination left:      89175
+elimination left:      89075
+elimination left:      88977
+elimination left:      88878
+elimination left:      88779
+elimination left:      88679
+elimination left:      88579
+elimination left:      88479
+elimination left:      88383
+elimination left:      88283
+elimination left:      88186
+elimination left:      88086
+elimination left:      87986
+elimination left:      87886
+elimination left:      87786
+elimination left:      87686
+elimination left:      87586
+elimination left:      87486
+elimination left:      87386
+elimination left:      87286
+elimination left:      87186
+elimination left:      87086
+elimination left:      86986
+elimination left:      86886
+elimination left:      86787
+elimination left:      86687
+elimination left:      86587
+elimination left:      86487
+elimination left:      86387
+elimination left:      86287
+elimination left:      86188
+elimination left:      86088
+elimination left:      85988
+elimination left:      85888
+elimination left:      85788
+elimination left:      85689
+elimination left:      85589
+elimination left:      85492
+elimination left:      85393
+elimination left:      85293
+elimination left:      85193
+elimination left:      85093
+elimination left:      84993
+elimination left:      84893
+elimination left:      84793
+elimination left:      84693
+elimination left:      84593
+elimination left:      84495
+elimination left:      84395
+elimination left:      84295
+elimination left:      84195
+elimination left:      84095
+elimination left:      83995
+elimination left:      83895
+elimination left:      83795
+elimination left:      83733
+elimination left:      83671
+elimination left:      83603
+elimination left:      83552
+elimination left:      83489
+elimination left:      83392
+elimination left:      83298
+elimination left:      83203
+elimination left:      83103
+elimination left:      83006
+elimination left:      82906
+elimination left:      82811
+elimination left:      82711
+elimination left:      82611
+elimination left:      82512
+elimination left:      82412
+elimination left:      82312
+elimination left:      82220
+elimination left:      82122
+elimination left:      82024
+elimination left:      81929
+elimination left:      81835
+elimination left:      81735
+elimination left:      81635
+elimination left:      81537
+elimination left:      81437
+elimination left:      81342
+elimination left:      81243
+elimination left:      81143
+elimination left:      81045
+elimination left:      80945
+elimination left:      80848
+elimination left:      80750
+elimination left:      80654
+elimination left:      80556
+elimination left:      80461
+elimination left:      80368
+elimination left:      80269
+elimination left:      80173
+elimination left:      80086
+elimination left:      79986
+elimination left:      79886
+elimination left:      79789
+elimination left:      79693
+elimination left:      79593
+elimination left:      79496
+elimination left:      79396
+elimination left:      79302
+elimination left:      79202
+elimination left:      79102
+elimination left:      79014
+elimination left:      78914
+elimination left:      78824
+elimination left:      78728
+elimination left:      78637
+elimination left:      78548
+elimination left:      78468
+elimination left:      78379
+elimination left:      78284
+elimination left:      78189
+elimination left:      78104
+elimination left:      78021
+elimination left:      77923
+elimination left:      77826
+elimination left:      77728
+elimination left:      77628
+elimination left:      77528
+elimination left:      77443
+elimination left:      77343
+elimination left:      77253
+elimination left:      77153
+elimination left:      77056
+elimination left:      76959
+elimination left:      76862
+elimination left:      76765
+elimination left:      76667
+elimination left:      76567
+elimination left:      76469
+elimination left:      76372
+elimination left:      76272
+elimination left:      76173
+elimination left:      76082
+elimination left:      75991
+elimination left:      75900
+elimination left:      75800
+elimination left:      75704
+elimination left:      75607
+elimination left:      75515
+elimination left:      75423
+elimination left:      75323
+elimination left:      75227
+elimination left:      75137
+elimination left:      75040
+elimination left:      74942
+elimination left:      74842
+elimination left:      74745
+elimination left:      74645
+elimination left:      74545
+elimination left:      74445
+elimination left:      74345
+elimination left:      74245
+elimination left:      74145
+elimination left:      74046
+elimination left:      73946
+elimination left:      73846
+elimination left:      73746
+elimination left:      73648
+elimination left:      73548
+elimination left:      73448
+elimination left:      73348
+elimination left:      73248
+elimination left:      73148
+elimination left:      73053
+elimination left:      72953
+elimination left:      72858
+elimination left:      72760
+elimination left:      72660
+elimination left:      72562
+elimination left:      72466
+elimination left:      72366
+elimination left:      72266
+elimination left:      72169
+elimination left:      72069
+elimination left:      71976
+elimination left:      71878
+elimination left:      71779
+elimination left:      71681
+elimination left:      71581
+elimination left:      71481
+elimination left:      71381
+elimination left:      71287
+elimination left:      71187
+elimination left:      71087
+elimination left:      70990
+elimination left:      70893
+elimination left:      70797
+elimination left:      70697
+elimination left:      70597
+elimination left:      70497
+elimination left:      70400
+elimination left:      70300
+elimination left:      70200
+elimination left:      70100
+elimination left:      70000
+elimination left:      69900
+elimination left:      69804
+elimination left:      69712
+elimination left:      69612
+elimination left:      69524
+elimination left:      69427
+elimination left:      69327
+elimination left:      69227
+elimination left:      69127
+elimination left:      69027
+elimination left:      68927
+elimination left:      68827
+elimination left:      68727
+elimination left:      68627
+elimination left:      68527
+elimination left:      68427
+elimination left:      68329
+elimination left:      68230
+elimination left:      68130
+elimination left:      68033
+elimination left:      67933
+elimination left:      67833
+elimination left:      67733
+elimination left:      67633
+elimination left:      67544
+elimination left:      67444
+elimination left:      67344
+elimination left:      67244
+elimination left:      67144
+elimination left:      67052
+elimination left:      66952
+elimination left:      66853
+elimination left:      66754
+elimination left:      66655
+elimination left:      66558
+elimination left:      66462
+elimination left:      66362
+elimination left:      66262
+elimination left:      66162
+elimination left:      66064
+elimination left:      65964
+elimination left:      65866
+elimination left:      65771
+elimination left:      65671
+elimination left:      65571
+elimination left:      65476
+elimination left:      65385
+elimination left:      65285
+elimination left:      65185
+elimination left:      65085
+elimination left:      64992
+elimination left:      64892
+elimination left:      64795
+elimination left:      64695
+elimination left:      64596
+elimination left:      64499
+elimination left:      64399
+elimination left:      64301
+elimination left:      64204
+elimination left:      64106
+elimination left:      64006
+elimination left:      63906
+elimination left:      63806
+elimination left:      63712
+elimination left:      63622
+elimination left:      63524
+elimination left:      63426
+elimination left:      63328
+elimination left:      63230
+elimination left:      63131
+elimination left:      63031
+elimination left:      62938
+elimination left:      62841
+elimination left:      62741
+elimination left:      62641
+elimination left:      62541
+elimination left:      62441
+elimination left:      62344
+elimination left:      62244
+elimination left:      62146
+elimination left:      62048
+elimination left:      61950
+elimination left:      61853
+elimination left:      61754
+elimination left:      61654
+elimination left:      61554
+elimination left:      61454
+elimination left:      61357
+elimination left:      61266
+elimination left:      61170
+elimination left:      61077
+elimination left:      60977
+elimination left:      60883
+elimination left:      60783
+elimination left:      60683
+elimination left:      60583
+elimination left:      60483
+elimination left:      60384
+elimination left:      60284
+elimination left:      60184
+elimination left:      60088
+elimination left:      59988
+elimination left:      59888
+elimination left:      59788
+elimination left:      59692
+elimination left:      59592
+elimination left:      59492
+elimination left:      59395
+elimination left:      59303
+elimination left:      59210
+elimination left:      59117
+elimination left:      59017
+elimination left:      58917
+elimination left:      58820
+elimination left:      58720
+elimination left:      58638
+elimination left:      58538
+elimination left:      58438
+elimination left:      58343
+elimination left:      58252
+elimination left:      58152
+elimination left:      58052
+elimination left:      57960
+elimination left:      57864
+elimination left:      57764
+elimination left:      57667
+elimination left:      57567
+elimination left:      57467
+elimination left:      57367
+elimination left:      57276
+elimination left:      57186
+elimination left:      57095
+elimination left:      56995
+elimination left:      56899
+elimination left:      56799
+elimination left:      56699
+elimination left:      56601
+elimination left:      56501
+elimination left:      56401
+elimination left:      56311
+elimination left:      56222
+elimination left:      56128
+elimination left:      56038
+elimination left:      55943
+elimination left:      55849
+elimination left:      55768
+elimination left:      55675
+elimination left:      55576
+elimination left:      55476
+elimination left:      55376
+elimination left:      55276
+elimination left:      55176
+elimination left:      55080
+elimination left:      54984
+elimination left:      54884
+elimination left:      54797
+elimination left:      54697
+elimination left:      54597
+elimination left:      54508
+elimination left:      54411
+elimination left:      54311
+elimination left:      54218
+elimination left:      54128
+elimination left:      54028
+elimination left:      53946
+elimination left:      53849
+elimination left:      53750
+elimination left:      53650
+elimination left:      53550
+elimination left:      53454
+elimination left:      53399
+elimination left:      53379
+elimination left:      53355
+elimination left:      53326
+elimination left:      53300
+elimination left:      53200
+elimination left:      53113
+elimination left:      53025
+elimination left:      52925
+elimination left:      52825
+elimination left:      52725
+elimination left:      52625
+elimination left:      52525
+elimination left:      52428
+elimination left:      52328
+elimination left:      52228
+elimination left:      52133
+elimination left:      52033
+elimination left:      51933
+elimination left:      51833
+elimination left:      51733
+elimination left:      51633
+elimination left:      51533
+elimination left:      51433
+elimination left:      51340
+elimination left:      51240
+elimination left:      51141
+elimination left:      51041
+elimination left:      50946
+elimination left:      50850
+elimination left:      50750
+elimination left:      50650
+elimination left:      50550
+elimination left:      50450
+elimination left:      50350
+elimination left:      50250
+elimination left:      50150
+elimination left:      50050
+elimination left:      49950
+elimination left:      49850
+elimination left:      49750
+elimination left:      49650
+elimination left:      49550
+elimination left:      49450
+elimination left:      49358
+elimination left:      49258
+elimination left:      49158
+elimination left:      49058
+elimination left:      48958
+elimination left:      48858
+elimination left:      48758
+elimination left:      48658
+elimination left:      48558
+elimination left:      48458
+elimination left:      48359
+elimination left:      48259
+elimination left:      48168
+elimination left:      48068
+elimination left:      47968
+elimination left:      47868
+elimination left:      47773
+elimination left:      47680
+elimination left:      47585
+elimination left:      47485
+elimination left:      47385
+elimination left:      47285
+elimination left:      47185
+elimination left:      47085
+elimination left:      46985
+elimination left:      46885
+elimination left:      46785
+elimination left:      46692
+elimination left:      46592
+elimination left:      46492
+elimination left:      46396
+elimination left:      46296
+elimination left:      46197
+elimination left:      46097
+elimination left:      45998
+elimination left:      45898
+elimination left:      45798
+elimination left:      45698
+elimination left:      45598
+elimination left:      45498
+elimination left:      45398
+elimination left:      45298
+elimination left:      45198
+elimination left:      45106
+elimination left:      45012
+elimination left:      44912
+elimination left:      44817
+elimination left:      44725
+elimination left:      44630
+elimination left:      44530
+elimination left:      44438
+elimination left:      44338
+elimination left:      44238
+elimination left:      44138
+elimination left:      44038
+elimination left:      43945
+elimination left:      43854
+elimination left:      43768
+elimination left:      43668
+elimination left:      43568
+elimination left:      43470
+elimination left:      43370
+elimination left:      43270
+elimination left:      43170
+elimination left:      43070
+elimination left:      42970
+elimination left:      42870
+elimination left:      42776
+elimination left:      42676
+elimination left:      42576
+elimination left:      42485
+elimination left:      42394
+elimination left:      42294
+elimination left:      42194
+elimination left:      42099
+elimination left:      41999
+elimination left:      41899
+elimination left:      41799
+elimination left:      41703
+elimination left:      41604
+elimination left:      41504
+elimination left:      41404
+elimination left:      41322
+elimination left:      41222
+elimination left:      41122
+elimination left:      41022
+elimination left:      40922
+elimination left:      40823
+elimination left:      40723
+elimination left:      40623
+elimination left:      40523
+elimination left:      40423
+elimination left:      40323
+elimination left:      40223
+elimination left:      40127
+elimination left:      40027
+elimination left:      39927
+elimination left:      39827
+elimination left:      39727
+elimination left:      39627
+elimination left:      39527
+elimination left:      39432
+elimination left:      39332
+elimination left:      39238
+elimination left:      39138
+elimination left:      39038
+elimination left:      38995
+elimination left:      38951
+elimination left:      38918
+elimination left:      38839
+elimination left:      38750
+elimination left:      38651
+elimination left:      38565
+elimination left:      38467
+elimination left:      38396
+elimination left:      38352
+elimination left:      38333
+elimination left:      38238
+elimination left:      38138
+elimination left:      38038
+elimination left:      37939
+elimination left:      37845
+elimination left:      37745
+elimination left:      37645
+elimination left:      37545
+elimination left:      37446
+elimination left:      37346
+elimination left:      37246
+elimination left:      37146
+elimination left:      37046
+elimination left:      36946
+elimination left:      36862
+elimination left:      36762
+elimination left:      36662
+elimination left:      36562
+elimination left:      36462
+elimination left:      36363
+elimination left:      36263
+elimination left:      36174
+elimination left:      36074
+elimination left:      35974
+elimination left:      35885
+elimination left:      35802
+elimination left:      35703
+elimination left:      35603
+elimination left:      35511
+elimination left:      35411
+elimination left:      35321
+elimination left:      35228
+elimination left:      35151
+elimination left:      35051
+elimination left:      34961
+elimination left:      34862
+elimination left:      34762
+elimination left:      34662
+elimination left:      34577
+elimination left:      34490
+elimination left:      34390
+elimination left:      34297
+elimination left:      34197
+elimination left:      34097
+elimination left:      33997
+elimination left:      33898
+elimination left:      33798
+elimination left:      33698
+elimination left:      33608
+elimination left:      33509
+elimination left:      33420
+elimination left:      33334
+elimination left:      33241
+elimination left:      33141
+elimination left:      33041
+elimination left:      32941
+elimination left:      32841
+elimination left:      32753
+elimination left:      32653
+elimination left:      32553
+elimination left:      32454
+elimination left:      32354
+elimination left:      32265
+elimination left:      32165
+elimination left:      32065
+elimination left:      31965
+elimination left:      31865
+elimination left:      31765
+elimination left:      31673
+elimination left:      31573
+elimination left:      31490
+elimination left:      31390
+elimination left:      31305
+elimination left:      31205
+elimination left:      31107
+elimination left:      31008
+elimination left:      30938
+elimination left:      30846
+elimination left:      30747
+elimination left:      30672
+elimination left:      30578
+elimination left:      30502
+elimination left:      30402
+elimination left:      30310
+elimination left:      30237
+elimination left:      30162
+elimination left:      30143
+elimination left:      30123
+elimination left:      30071
+elimination left:      29971
+elimination left:      29879
+elimination left:      29779
+elimination left:      29679
+elimination left:      29579
+elimination left:      29479
+elimination left:      29379
+elimination left:      29279
+elimination left:      29179
+elimination left:      29079
+elimination left:      28979
+elimination left:      28887
+elimination left:      28787
+elimination left:      28687
+elimination left:      28595
+elimination left:      28495
+elimination left:      28397
+elimination left:      28297
+elimination left:      28197
+elimination left:      28097
+elimination left:      27997
+elimination left:      27910
+elimination left:      27811
+elimination left:      27712
+elimination left:      27612
+elimination left:      27512
+elimination left:      27412
+elimination left:      27340
+elimination left:      27254
+elimination left:      27161
+elimination left:      27061
+elimination left:      26962
+elimination left:      26863
+elimination left:      26776
+elimination left:      26685
+elimination left:      26586
+elimination left:      26486
+elimination left:      26395
+elimination left:      26295
+elimination left:      26196
+elimination left:      26109
+elimination left:      26009
+elimination left:      25910
+elimination left:      25816
+elimination left:      25727
+elimination left:      25629
+elimination left:      25559
+elimination left:      25474
+elimination left:      25394
+elimination left:      25326
+elimination left:      25291
+elimination left:      25222
+elimination left:      25173
+elimination left:      25073
+elimination left:      24973
+elimination left:      24900
+elimination left:      24807
+elimination left:      24737
+elimination left:      24678
+elimination left:      24630
+elimination left:      24599
+elimination left:      24563
+elimination left:      24463
+elimination left:      24373
+elimination left:      24324
+elimination left:      24234
+elimination left:      24202
+elimination left:      24164
+elimination left:      24110
+elimination left:      24069
+elimination left:      24031
+elimination left:      23973
+elimination left:      23885
+elimination left:      23797
+elimination left:      23715
+elimination left:      23635
+elimination left:      23566
+elimination left:      23510
+elimination left:      23461
+elimination left:      23381
+elimination left:      23281
+elimination left:      23181
+elimination left:      23081
+elimination left:      22981
+elimination left:      22881
+elimination left:      22781
+elimination left:      22681
+elimination left:      22581
+elimination left:      22481
+elimination left:      22381
+elimination left:      22281
+elimination left:      22181
+elimination left:      22081
+elimination left:      21981
+elimination left:      21989
+elimination left:      21889
+elimination left:      21889
+elimination left:      21789
+elimination left:      21789
+elimination left:      21789
+elimination left:      21786
+elimination left:      21786
+elimination left:      21786
+elimination left:      21784
+elimination left:      21784
+elimination left:      21784
+elimination left:      21784
+elimination left:      21782
+elimination left:      21780
+elimination left:      21778
+elimination left:      21778
+elimination left:      21778
+elimination left:      21778
+elimination left:      21776
+elimination left:      21773
+elimination left:      21773
+elimination left:      21773
+elimination left:      21773
+elimination left:      21773
+elimination left:      21769
+elimination left:      21765
+elimination left:      21665
+elimination left:      21659
+elimination left:      21653
+elimination left:      21647
+elimination left:      21641
+elimination left:      21635
+elimination left:      21629
+elimination left:      21623
+elimination left:      21617
+elimination left:      21661
+elimination left:      21655
+elimination left:      21699
+elimination left:      21599
+elimination left:      21643
+elimination left:      21637
+elimination left:      21631
+elimination left:      21625
+elimination left:      21619
+elimination left:      21613
+elimination left:      21607
+elimination left:      21601
+elimination left:      21595
+elimination left:      21589
+elimination left:      21633
+elimination left:      21627
+elimination left:      21621
+elimination left:      21622
+elimination left:      21623
+elimination left:      21623
+elimination left:      21623
+elimination left:      21623
+elimination left:      21624
+elimination left:      21625
+elimination left:      21625
+elimination left:      21627
+elimination left:      21628
+elimination left:      21629
+elimination left:      21630
+elimination left:      21631
+elimination left:      21632
+elimination left:      21632
+elimination left:      21635
+elimination left:      21640
+elimination left:      21642
+elimination left:      21642
+elimination left:      21644
+elimination left:      21645
+elimination left:      21645
+elimination left:      21646
+elimination left:      21646
+elimination left:      21647
+elimination left:      21547
+elimination left:      21549
+elimination left:      21550
+elimination left:      21553
+elimination left:      21554
+elimination left:      21554
+elimination left:      21555
+elimination left:      21556
+elimination left:      21561
+elimination left:      21562
+elimination left:      21563
+elimination left:      21566
+elimination left:      21566
+elimination left:      21567
+elimination left:      21570
+elimination left:      21571
+elimination left:      21572
+elimination left:      21573
+elimination left:      21574
+elimination left:      21575
+elimination left:      21576
+elimination left:      21579
+elimination left:      21579
+elimination left:      21580
+elimination left:      21583
+elimination left:      21584
+elimination left:      21584
+elimination left:      21584
+elimination left:      21584
+elimination left:      21587
+elimination left:      21589
+elimination left:      21590
+elimination left:      21591
+elimination left:      21591
+elimination left:      21591
+elimination left:      21591
+elimination left:      21593
+elimination left:      21599
+elimination left:      21599
+elimination left:      21599
+elimination left:      21599
+elimination left:      21600
+elimination left:      21600
+elimination left:      21601
+elimination left:      21603
+elimination left:      21503
+elimination left:      21503
+elimination left:      21503
+elimination left:      21504
+elimination left:      21505
+elimination left:      21506
+elimination left:      21506
+elimination left:      21506
+elimination left:      21506
+elimination left:      21506
+elimination left:      21507
+elimination left:      21509
+elimination left:      21510
+elimination left:      21513
+elimination left:      21517
+elimination left:      21518
+elimination left:      21518
+elimination left:      21519
+elimination left:      21519
+elimination left:      21519
+elimination left:      21520
+elimination left:      21520
+elimination left:      21523
+elimination left:      21525
+elimination left:      21526
+elimination left:      21527
+elimination left:      21527
+elimination left:      21529
+elimination left:      21531
+elimination left:      21533
+elimination left:      21534
+elimination left:      21534
+elimination left:      21535
+elimination left:      21535
+elimination left:      21535
+elimination left:      21535
+elimination left:      21536
+elimination left:      21539
+elimination left:      21540
+elimination left:      21541
+elimination left:      21541
+elimination left:      21541
+elimination left:      21541
+elimination left:      21542
+elimination left:      21544
+elimination left:      21545
+elimination left:      21546
+elimination left:      21548
+elimination left:      21551
+elimination left:      21552
+elimination left:      21552
+elimination left:      21452
+elimination left:      21455
+elimination left:      21456
+elimination left:      21457
+elimination left:      21457
+elimination left:      21457
+elimination left:      21459
+elimination left:      21459
+elimination left:      21459
+elimination left:      21461
+elimination left:      21463
+elimination left:      21463
+elimination left:      21463
+elimination left:      21465
+elimination left:      21465
+elimination left:      21467
+elimination left:      21469
+elimination left:      21469
+elimination left:      21471
+elimination left:      21471
+elimination left:      21471
+elimination left:      21471
+elimination left:      21471
+elimination left:      21473
+elimination left:      21473
+elimination left:      21473
+elimination left:      21475
+elimination left:      21477
+elimination left:      21477
+elimination left:      21479
+elimination left:      21479
+elimination left:      21479
+elimination left:      21479
+elimination left:      21481
+elimination left:      21481
+elimination left:      21483
+elimination left:      21483
+elimination left:      21485
+elimination left:      21485
+elimination left:      21487
+elimination left:      21487
+elimination left:      21487
+elimination left:      21487
+elimination left:      21487
+elimination left:      21487
+elimination left:      21489
+elimination left:      21489
+elimination left:      21489
+elimination left:      21491
+elimination left:      21491
+elimination left:      21491
+elimination left:      21491
+elimination left:      21493
+elimination left:      21493
+elimination left:      21493
+elimination left:      21493
+elimination left:      21493
+elimination left:      21495
+elimination left:      21395
+elimination left:      21395
+elimination left:      21395
+elimination left:      21395
+elimination left:      21395
+elimination left:      21395
+elimination left:      21397
+elimination left:      21397
+elimination left:      21397
+elimination left:      21397
+elimination left:      21397
+elimination left:      21399
+elimination left:      21399
+elimination left:      21399
+elimination left:      21399
+elimination left:      21401
+elimination left:      21403
+elimination left:      21403
+elimination left:      21403
+elimination left:      21403
+elimination left:      21405
+elimination left:      21407
+elimination left:      21407
+elimination left:      21408
+elimination left:      21408
+elimination left:      21408
+elimination left:      21408
+elimination left:      21408
+elimination left:      21408
+elimination left:      21408
+elimination left:      21408
+elimination left:      21408
+elimination left:      21408
+elimination left:      21408
+elimination left:      21408
+elimination left:      21408
+elimination left:      21408
+elimination left:      21408
+elimination left:      21408
+elimination left:      21408
+elimination left:      21410
+elimination left:      21410
+elimination left:      21410
+elimination left:      21410
+elimination left:      21410
+elimination left:      21410
+elimination left:      21410
+elimination left:      21412
+elimination left:      21412
+elimination left:      21412
+elimination left:      21414
+elimination left:      21414
+elimination left:      21416
+elimination left:      21416
+elimination left:      21418
+elimination left:      21420
+elimination left:      21420
+elimination left:      21420
+elimination left:      21422
+elimination left:      21422
+elimination left:      21424
+elimination left:      21424
+elimination left:      21424
+elimination left:      21424
+elimination left:      21424
+elimination left:      21424
+elimination left:      21424
+elimination left:      21424
+elimination left:      21324
+elimination left:      21324
+elimination left:      21324
+elimination left:      21324
+elimination left:      21324
+elimination left:      21324
+elimination left:      21325
+elimination left:      21327
+elimination left:      21329
+elimination left:      21329
+elimination left:      21329
+elimination left:      21329
+elimination left:      21329
+elimination left:      21331
+elimination left:      21331
+elimination left:      21331
+elimination left:      21331
+elimination left:      21331
+elimination left:      21333
+elimination left:      21333
+elimination left:      21333
+elimination left:      21333
+elimination left:      21333
+elimination left:      21333
+elimination left:      21333
+elimination left:      21333
+elimination left:      21335
+elimination left:      21337
+elimination left:      21337
+elimination left:      21337
+elimination left:      21337
+elimination left:      21337
+elimination left:      21337
+elimination left:      21337
+elimination left:      21339
+elimination left:      21339
+elimination left:      21339
+elimination left:      21339
+elimination left:      21339
+elimination left:      21339
+elimination left:      21339
+elimination left:      21339
+elimination left:      21341
+elimination left:      21341
+elimination left:      21341
+elimination left:      21341
+elimination left:      21341
+elimination left:      21341
+elimination left:      21343
+elimination left:      21343
+elimination left:      21345
+elimination left:      21345
+elimination left:      21345
+elimination left:      21345
+elimination left:      21345
+elimination left:      21345
+elimination left:      21345
+elimination left:      21345
+elimination left:      21345
+elimination left:      21345
+elimination left:      21345
+elimination left:      21345
+elimination left:      21345
+elimination left:      21345
+elimination left:      21345
+elimination left:      21345
+elimination left:      21345
+elimination left:      21345
+elimination left:      21345
+elimination left:      21345
+elimination left:      21345
+elimination left:      21370
+elimination left:      21270
+elimination left:      21270
+elimination left:      21270
+elimination left:      21270
+elimination left:      21270
+elimination left:      21270
+elimination left:      21270
+elimination left:      21270
+elimination left:      21270
+elimination left:      21270
+elimination left:      21272
+elimination left:      21272
+elimination left:      21297
+elimination left:      21347
+elimination left:      21247
+elimination left:      21147
+elimination left:      21047
+elimination left:      20947
+elimination left:      20847
+elimination left:      20747
+elimination left:      20647
+elimination left:      20547
+elimination left:      20447
+elimination left:      20500
+elimination left:      20564
+elimination left:      20464
+elimination left:      20519
+elimination left:      20574
+elimination left:      20474
+elimination left:      20527
+elimination left:      20427
+elimination left:      20487
+elimination left:      20538
+elimination left:      20438
+elimination left:      20489
+elimination left:      20542
+elimination left:      20442
+elimination left:      20495
+elimination left:      20546
+elimination left:      20446
+elimination left:      20497
+elimination left:      20550
+elimination left:      20450
+elimination left:      20501
+elimination left:      20552
+elimination left:      20452
+elimination left:      20504
+elimination left:      20404
+elimination left:      20304
+elimination left:      20204
+elimination left:      20104
+elimination left:      20004
+elimination left:      19904
+elimination left:      19804
+elimination left:      19704
+elimination left:      19604
+elimination left:      19504
+elimination left:      19404
+elimination left:      19304
+elimination left:      19204
+elimination left:      19104
+elimination left:      19004
+elimination left:      18904
+elimination left:      18804
+elimination left:      18704
+elimination left:      18604
+elimination left:      18504
+elimination left:      18404
+elimination left:      18304
+elimination left:      18204
+elimination left:      18104
+elimination left:      18004
+elimination left:      17904
+elimination left:      17804
+elimination left:      17704
+elimination left:      17604
+elimination left:      17504
+elimination left:      17404
+elimination left:      17304
+elimination left:      17204
+elimination left:      17104
+elimination left:      17004
+elimination left:      16904
+elimination left:      16804
+elimination left:      16704
+elimination left:      16604
+elimination left:      16504
+elimination left:      16404
+elimination left:      16304
+elimination left:      16204
+elimination left:      16104
+elimination left:      16004
+elimination left:      15904
+elimination left:      15804
+elimination left:      15704
+elimination left:      15604
+elimination left:      15504
+elimination left:      15404
+elimination left:      15304
+elimination left:      15204
+elimination left:      15104
+elimination left:      15004
+elimination left:      14904
+elimination left:      14804
+elimination left:      14704
+elimination left:      14604
+elimination left:      14504
+elimination left:      14404
+elimination left:      14304
+elimination left:      14204
+elimination left:      14104
+elimination left:      14004
+elimination left:      13904
+elimination left:      13804
+elimination left:      13704
+elimination left:      13604
+elimination left:      13504
+elimination left:      13404
+elimination left:      13304
+elimination left:      13204
+elimination left:      13104
+elimination left:      13004
+elimination left:      12904
+elimination left:      12804
+elimination left:      12704
+elimination left:      12604
+elimination left:      12504
+elimination left:      12404
+elimination left:      12304
+elimination left:      12204
+elimination left:      12104
+elimination left:      12004
+elimination left:      11904
+elimination left:      11804
+elimination left:      11704
+elimination left:      11604
+elimination left:      11504
+elimination left:      11404
+elimination left:      11304
+elimination left:      11204
+elimination left:      11104
+elimination left:      11004
+elimination left:      10904
+elimination left:      10804
+elimination left:      10704
+elimination left:      10604
+elimination left:      10504
+elimination left:      10404
+elimination left:      10304
+elimination left:      10204
+elimination left:      10104
+elimination left:      10004
+elimination left:       9904
+elimination left:       9804
+elimination left:       9704
+elimination left:       9604
+elimination left:       9504
+elimination left:       9404
+elimination left:       9304
+elimination left:       9204
+elimination left:       9104
+elimination left:       9004
+elimination left:       8904
+elimination left:       8804
+elimination left:       8704
+elimination left:       8604
+elimination left:       8504
+elimination left:       8404
+elimination left:       8304
+elimination left:       8204
+elimination left:       8104
+elimination left:       8004
+elimination left:       7904
+elimination left:       7804
+elimination left:       7704
+elimination left:       7604
+elimination left:       7504
+elimination left:       7404
+elimination left:       7304
+elimination left:       7204
+elimination left:       7104
+elimination left:       7004
+elimination left:       6904
+elimination left:       6804
+elimination left:       6704
+elimination left:       6604
+elimination left:       6504
+elimination left:       6404
+elimination left:       6304
+elimination left:       6204
+elimination left:       6104
+elimination left:       6004
+elimination left:       5904
+elimination left:       5804
+elimination left:       5704
+elimination left:       5604
+elimination left:       5504
+elimination left:       5404
+elimination left:       5304
+elimination left:       5204
+elimination left:       5104
+elimination left:       5004
+elimination left:       4904
+elimination left:       4804
+elimination left:       4704
+elimination left:       4604
+elimination left:       4504
+elimination left:       4404
+elimination left:       4304
+elimination left:       4204
+elimination left:       4104
+elimination left:       4004
+elimination left:       3904
+elimination left:       3804
+elimination left:       3704
+elimination left:       3604
+elimination left:       3504
+elimination left:       3404
+elimination left:       3304
+elimination left:       3204
+elimination left:       3104
+elimination left:       3004
+elimination left:       2904
+elimination left:       2804
+elimination left:       2704
+elimination left:       2604
+elimination left:       2504
+elimination left:       2404
+elimination left:       2304
+elimination left:       2204
+elimination left:       2104
+elimination left:       2004
+elimination left:       1904
+elimination left:       1804
+elimination left:       1704
+elimination left:       1604
+elimination left:       1504
+elimination left:       1404
+elimination left:       1304
+elimination left:       1204
+elimination left:       1104
+elimination left:       1004
+elimination left:        904
+elimination left:        804
+elimination left:        704
+elimination left:        604
+elimination left:        504
+elimination left:        404
+elimination left:        304
+elimination left:        204
+elimination left:        104
+elimination left:          4
+subsumption left:     507003 (         0 subsumed,          0 deleted literals)
+subsumption left:     506166 (        25 subsumed,        165 deleted literals)
+subsumption left:     505285 (        42 subsumed,        290 deleted literals)
+subsumption left:     504343 (        57 subsumed,        356 deleted literals)
+subsumption left:     503475 (        82 subsumed,        490 deleted literals)
+subsumption left:     502522 (       105 subsumed,        556 deleted literals)
+subsumption left:     501639 (       122 subsumed,        673 deleted literals)
+subsumption left:     500767 (       147 subsumed,        804 deleted literals)
+subsumption left:     499889 (       170 subsumed,        929 deleted literals)
+subsumption left:     498962 (       191 subsumed,       1009 deleted literals)
+subsumption left:     498053 (       211 subsumed,       1107 deleted literals)
+subsumption left:     497148 (       231 subsumed,       1208 deleted literals)
+subsumption left:     496205 (       244 subsumed,       1273 deleted literals)
+subsumption left:     495316 (       264 subsumed,       1386 deleted literals)
+subsumption left:     494396 (       280 subsumed,       1473 deleted literals)
+subsumption left:     493442 (       297 subsumed,       1531 deleted literals)
+subsumption left:     492494 (       314 subsumed,       1594 deleted literals)
+subsumption left:     491546 (       331 subsumed,       1656 deleted literals)
+subsumption left:     490603 (       345 subsumed,       1723 deleted literals)
+subsumption left:     489665 (       363 subsumed,       1794 deleted literals)
+subsumption left:     488707 (       382 subsumed,       1851 deleted literals)
+subsumption left:     487750 (       402 subsumed,       1911 deleted literals)
+subsumption left:     486811 (       418 subsumed,       1983 deleted literals)
+subsumption left:     485858 (       436 subsumed,       2042 deleted literals)
+subsumption left:     484929 (       447 subsumed,       2119 deleted literals)
+subsumption left:     483980 (       456 subsumed,       2175 deleted literals)
+subsumption left:     483031 (       469 subsumed,       2235 deleted literals)
+subsumption left:     482088 (       482 subsumed,       2300 deleted literals)
+subsumption left:     481157 (       497 subsumed,       2378 deleted literals)
+subsumption left:     480216 (       512 subsumed,       2447 deleted literals)
+subsumption left:     479260 (       527 subsumed,       2501 deleted literals)
+subsumption left:     478279 (       558 subsumed,       2551 deleted literals)
+subsumption left:     477314 (       587 subsumed,       2613 deleted literals)
+subsumption left:     476370 (       605 subsumed,       2681 deleted literals)
+subsumption left:     475418 (       618 subsumed,       2737 deleted literals)
+subsumption left:     474476 (       634 subsumed,       2805 deleted literals)
+subsumption left:     473529 (       653 subsumed,       2871 deleted literals)
+subsumption left:     472568 (       663 subsumed,       2916 deleted literals)
+subsumption left:     471647 (       681 subsumed,       3007 deleted literals)
+subsumption left:     470788 (       707 subsumed,       3150 deleted literals)
+subsumption left:     469907 (       727 subsumed,       3276 deleted literals)
+subsumption left:     468956 (       737 subsumed,       3329 deleted literals)
+subsumption left:     468071 (       762 subsumed,       3451 deleted literals)
+subsumption left:     467226 (       790 subsumed,       3612 deleted literals)
+subsumption left:     466358 (       803 subsumed,       3747 deleted literals)
+subsumption left:     465428 (       819 subsumed,       3827 deleted literals)
+subsumption left:     464480 (       832 subsumed,       3887 deleted literals)
+subsumption left:     463544 (       851 subsumed,       3964 deleted literals)
+subsumption left:     462629 (       870 subsumed,       4061 deleted literals)
+subsumption left:     461755 (       897 subsumed,       4195 deleted literals)
+subsumption left:     460871 (       914 subsumed,       4318 deleted literals)
+subsumption left:     459927 (       928 subsumed,       4383 deleted literals)
+subsumption left:     458980 (       938 subsumed,       4441 deleted literals)
+subsumption left:     458038 (       955 subsumed,       4510 deleted literals)
+subsumption left:     457086 (       970 subsumed,       4568 deleted literals)
+subsumption left:     456151 (       994 subsumed,       4649 deleted literals)
+subsumption left:     455264 (      1018 subsumed,       4765 deleted literals)
+subsumption left:     454332 (      1034 subsumed,       4840 deleted literals)
+subsumption left:     453378 (      1051 subsumed,       4898 deleted literals)
+subsumption left:     452435 (      1068 subsumed,       4967 deleted literals)
+subsumption left:     451479 (      1085 subsumed,       5022 deleted literals)
+subsumption left:     450584 (      1107 subsumed,       5136 deleted literals)
+subsumption left:     449736 (      1128 subsumed,       5290 deleted literals)
+subsumption left:     448833 (      1143 subsumed,       5393 deleted literals)
+subsumption left:     447881 (      1160 subsumed,       5452 deleted literals)
+subsumption left:     446926 (      1177 subsumed,       5509 deleted literals)
+subsumption left:     445975 (      1186 subsumed,       5562 deleted literals)
+subsumption left:     445031 (      1203 subsumed,       5631 deleted literals)
+subsumption left:     444093 (      1219 subsumed,       5703 deleted literals)
+subsumption left:     443153 (      1236 subsumed,       5773 deleted literals)
+subsumption left:     442221 (      1253 subsumed,       5852 deleted literals)
+subsumption left:     441271 (      1269 subsumed,       5913 deleted literals)
+subsumption left:     440329 (      1286 subsumed,       5982 deleted literals)
+subsumption left:     439428 (      1308 subsumed,       6086 deleted literals)
+subsumption left:     438523 (      1325 subsumed,       6188 deleted literals)
+subsumption left:     437573 (      1339 subsumed,       6246 deleted literals)
+subsumption left:     436673 (      1358 subsumed,       6352 deleted literals)
+subsumption left:     435768 (      1378 subsumed,       6452 deleted literals)
+subsumption left:     434846 (      1394 subsumed,       6537 deleted literals)
+subsumption left:     433997 (      1419 subsumed,       6688 deleted literals)
+subsumption left:     433122 (      1439 subsumed,       6815 deleted literals)
+subsumption left:     432271 (      1459 subsumed,       6967 deleted literals)
+subsumption left:     431377 (      1482 subsumed,       7078 deleted literals)
+subsumption left:     430425 (      1492 subsumed,       7131 deleted literals)
+subsumption left:     429481 (      1509 subsumed,       7197 deleted literals)
+subsumption left:     428537 (      1524 subsumed,       7264 deleted literals)
+subsumption left:     427645 (      1550 subsumed,       7378 deleted literals)
+subsumption left:     426713 (      1574 subsumed,       7461 deleted literals)
+subsumption left:     425765 (      1592 subsumed,       7527 deleted literals)
+subsumption left:     424794 (      1619 subsumed,       7581 deleted literals)
+subsumption left:     423854 (      1632 subsumed,       7649 deleted literals)
+subsumption left:     422918 (      1648 subsumed,       7723 deleted literals)
+subsumption left:     421959 (      1661 subsumed,       7772 deleted literals)
+subsumption left:     421009 (      1678 subsumed,       7834 deleted literals)
+subsumption left:     420069 (      1695 subsumed,       7906 deleted literals)
+subsumption left:     419122 (      1707 subsumed,       7966 deleted literals)
+subsumption left:     418178 (      1725 subsumed,       8034 deleted literals)
+subsumption left:     417229 (      1739 subsumed,       8093 deleted literals)
+subsumption left:     416287 (      1758 subsumed,       8163 deleted literals)
+subsumption left:     415337 (      1766 subsumed,       8218 deleted literals)
+subsumption left:     414384 (      1782 subsumed,       8276 deleted literals)
+subsumption left:     413429 (      1798 subsumed,       8332 deleted literals)
+subsumption left:     412510 (      1812 subsumed,       8416 deleted literals)
+subsumption left:     411652 (      1836 subsumed,       8563 deleted literals)
+subsumption left:     410787 (      1853 subsumed,       8702 deleted literals)
+subsumption left:     409892 (      1875 subsumed,       8816 deleted literals)
+subsumption left:     408950 (      1892 subsumed,       8885 deleted literals)
+subsumption left:     407986 (      1907 subsumed,       8931 deleted literals)
+subsumption left:     407063 (      1924 subsumed,       9019 deleted literals)
+subsumption left:     406128 (      1939 subsumed,       9093 deleted literals)
+subsumption left:     405214 (      1955 subsumed,       9181 deleted literals)
+subsumption left:     404314 (      1975 subsumed,       9284 deleted literals)
+subsumption left:     403373 (      1990 subsumed,       9353 deleted literals)
+subsumption left:     402431 (      2007 subsumed,       9423 deleted literals)
+subsumption left:     401486 (      2017 subsumed,       9483 deleted literals)
+subsumption left:     400531 (      2034 subsumed,       9540 deleted literals)
+subsumption left:     399589 (      2050 subsumed,       9608 deleted literals)
+subsumption left:     398637 (      2065 subsumed,       9665 deleted literals)
+subsumption left:     397698 (      2081 subsumed,       9737 deleted literals)
+subsumption left:     396729 (      2110 subsumed,       9794 deleted literals)
+subsumption left:     395780 (      2127 subsumed,       9858 deleted literals)
+subsumption left:     394821 (      2145 subsumed,       9913 deleted literals)
+subsumption left:     393860 (      2159 subsumed,       9961 deleted literals)
+subsumption left:     392918 (      2175 subsumed,      10026 deleted literals)
+subsumption left:     391980 (      2189 subsumed,      10099 deleted literals)
+subsumption left:     391014 (      2213 subsumed,      10156 deleted literals)
+subsumption left:     390068 (      2231 subsumed,      10223 deleted literals)
+subsumption left:     389110 (      2239 subsumed,      10269 deleted literals)
+subsumption left:     388140 (      2258 subsumed,      10313 deleted literals)
+subsumption left:     387198 (      2274 subsumed,      10383 deleted literals)
+subsumption left:     386257 (      2289 subsumed,      10451 deleted literals)
+subsumption left:     385304 (      2303 subsumed,      10507 deleted literals)
+subsumption left:     384357 (      2313 subsumed,      10565 deleted literals)
+subsumption left:     383406 (      2328 subsumed,      10623 deleted literals)
+subsumption left:     382512 (      2352 subsumed,      10735 deleted literals)
+subsumption left:     381599 (      2366 subsumed,      10828 deleted literals)
+subsumption left:     380638 (      2379 subsumed,      10875 deleted literals)
+subsumption left:     379680 (      2397 subsumed,      10932 deleted literals)
+subsumption left:     378752 (      2415 subsumed,      11012 deleted literals)
+subsumption left:     377876 (      2436 subsumed,      11139 deleted literals)
+subsumption left:     376992 (      2453 subsumed,      11262 deleted literals)
+subsumption left:     376037 (      2464 subsumed,      11312 deleted literals)
+subsumption left:     375086 (      2478 subsumed,      11372 deleted literals)
+subsumption left:     374120 (      2496 subsumed,      11419 deleted literals)
+subsumption left:     373166 (      2514 subsumed,      11479 deleted literals)
+subsumption left:     372226 (      2529 subsumed,      11546 deleted literals)
+subsumption left:     371347 (      2549 subsumed,      11670 deleted literals)
+subsumption left:     370415 (      2570 subsumed,      11748 deleted literals)
+subsumption left:     369538 (      2588 subsumed,      11871 deleted literals)
+subsumption left:     368691 (      2618 subsumed,      12027 deleted literals)
+subsumption left:     367829 (      2630 subsumed,      12167 deleted literals)
+subsumption left:     366890 (      2647 subsumed,      12240 deleted literals)
+subsumption left:     365954 (      2662 subsumed,      12313 deleted literals)
+subsumption left:     365074 (      2683 subsumed,      12437 deleted literals)
+subsumption left:     364131 (      2698 subsumed,      12503 deleted literals)
+subsumption left:     363179 (      2717 subsumed,      12565 deleted literals)
+subsumption left:     362232 (      2725 subsumed,      12622 deleted literals)
+subsumption left:     361258 (      2746 subsumed,      12666 deleted literals)
+subsumption left:     360389 (      2780 subsumed,      12813 deleted literals)
+subsumption left:     359522 (      2795 subsumed,      12948 deleted literals)
+subsumption left:     358561 (      2824 subsumed,      13016 deleted literals)
+subsumption left:     357608 (      2837 subsumed,      13070 deleted literals)
+subsumption left:     356675 (      2857 subsumed,      13150 deleted literals)
+subsumption left:     355727 (      2883 subsumed,      13222 deleted literals)
+subsumption left:     354858 (      2905 subsumed,      13355 deleted literals)
+subsumption left:     353984 (      2924 subsumed,      13484 deleted literals)
+subsumption left:     353040 (      2939 subsumed,      13548 deleted literals)
+subsumption left:     352100 (      2954 subsumed,      13618 deleted literals)
+subsumption left:     351160 (      2970 subsumed,      13688 deleted literals)
+subsumption left:     350224 (      2986 subsumed,      13762 deleted literals)
+subsumption left:     349286 (      3002 subsumed,      13834 deleted literals)
+subsumption left:     348350 (      3019 subsumed,      13908 deleted literals)
+subsumption left:     347402 (      3034 subsumed,      13970 deleted literals)
+subsumption left:     346470 (      3042 subsumed,      14044 deleted literals)
+subsumption left:     345528 (      3055 subsumed,      14108 deleted literals)
+subsumption left:     344591 (      3071 subsumed,      14181 deleted literals)
+subsumption left:     343659 (      3080 subsumed,      14256 deleted literals)
+subsumption left:     342729 (      3096 subsumed,      14334 deleted literals)
+subsumption left:     341844 (      3115 subsumed,      14450 deleted literals)
+subsumption left:     341001 (      3148 subsumed,      14616 deleted literals)
+subsumption left:     340111 (      3167 subsumed,      14734 deleted literals)
+subsumption left:     339176 (      3185 subsumed,      14809 deleted literals)
+subsumption left:     338239 (      3200 subsumed,      14882 deleted literals)
+subsumption left:     337330 (      3221 subsumed,      14978 deleted literals)
+subsumption left:     336424 (      3238 subsumed,      15077 deleted literals)
+subsumption left:     335481 (      3254 subsumed,      15144 deleted literals)
+subsumption left:     334520 (      3276 subsumed,      15201 deleted literals)
+subsumption left:     333570 (      3292 subsumed,      15265 deleted literals)
+subsumption left:     332685 (      3313 subsumed,      15389 deleted literals)
+subsumption left:     331802 (      3330 subsumed,      15507 deleted literals)
+subsumption left:     330951 (      3354 subsumed,      15657 deleted literals)
+subsumption left:     330033 (      3373 subsumed,      15746 deleted literals)
+subsumption left:     329084 (      3385 subsumed,      15804 deleted literals)
+subsumption left:     328130 (      3393 subsumed,      15854 deleted literals)
+subsumption left:     327178 (      3412 subsumed,      15914 deleted literals)
+subsumption left:     326232 (      3429 subsumed,      15979 deleted literals)
+subsumption left:     325293 (      3445 subsumed,      16051 deleted literals)
+subsumption left:     324339 (      3459 subsumed,      16105 deleted literals)
+subsumption left:     323400 (      3476 subsumed,      16176 deleted literals)
+subsumption left:     322464 (      3492 subsumed,      16251 deleted literals)
+subsumption left:     321526 (      3508 subsumed,      16323 deleted literals)
+subsumption left:     320566 (      3525 subsumed,      16375 deleted literals)
+subsumption left:     319609 (      3535 subsumed,      16424 deleted literals)
+subsumption left:     318655 (      3543 subsumed,      16474 deleted literals)
+subsumption left:     317763 (      3563 subsumed,      16584 deleted literals)
+subsumption left:     316872 (      3588 subsumed,      16696 deleted literals)
+subsumption left:     315971 (      3604 subsumed,      16801 deleted literals)
+subsumption left:     315016 (      3621 subsumed,      16859 deleted literals)
+subsumption left:     314063 (      3639 subsumed,      16921 deleted literals)
+subsumption left:     313128 (      3654 subsumed,      16995 deleted literals)
+subsumption left:     312182 (      3671 subsumed,      17059 deleted literals)
+subsumption left:     311238 (      3684 subsumed,      17123 deleted literals)
+subsumption left:     310290 (      3702 subsumed,      17189 deleted literals)
+subsumption left:     309377 (      3721 subsumed,      17282 deleted literals)
+subsumption left:     308498 (      3738 subsumed,      17404 deleted literals)
+subsumption left:     307619 (      3755 subsumed,      17531 deleted literals)
+subsumption left:     306678 (      3770 subsumed,      17600 deleted literals)
+subsumption left:     305734 (      3785 subsumed,      17666 deleted literals)
+subsumption left:     304795 (      3800 subsumed,      17736 deleted literals)
+subsumption left:     303840 (      3819 subsumed,      17795 deleted literals)
+subsumption left:     302882 (      3827 subsumed,      17841 deleted literals)
+subsumption left:     301982 (      3847 subsumed,      17945 deleted literals)
+subsumption left:     301105 (      3870 subsumed,      18073 deleted literals)
+subsumption left:     300204 (      3891 subsumed,      18180 deleted literals)
+subsumption left:     299252 (      3917 subsumed,      18246 deleted literals)
+subsumption left:     298284 (      3941 subsumed,      18300 deleted literals)
+subsumption left:     297342 (      3958 subsumed,      18369 deleted literals)
+subsumption left:     296409 (      3975 subsumed,      18447 deleted literals)
+subsumption left:     295455 (      3992 subsumed,      18505 deleted literals)
+subsumption left:     294498 (      4010 subsumed,      18560 deleted literals)
+subsumption left:     293586 (      4026 subsumed,      18656 deleted literals)
+subsumption left:     292711 (      4044 subsumed,      18785 deleted literals)
+subsumption left:     291831 (      4059 subsumed,      18911 deleted literals)
+subsumption left:     290891 (      4075 subsumed,      18981 deleted literals)
+subsumption left:     289943 (      4091 subsumed,      19042 deleted literals)
+subsumption left:     288997 (      4107 subsumed,      19108 deleted literals)
+subsumption left:     288053 (      4121 subsumed,      19173 deleted literals)
+subsumption left:     287108 (      4131 subsumed,      19234 deleted literals)
+subsumption left:     286181 (      4154 subsumed,      19315 deleted literals)
+subsumption left:     285308 (      4175 subsumed,      19446 deleted literals)
+subsumption left:     284425 (      4192 subsumed,      19567 deleted literals)
+subsumption left:     283479 (      4217 subsumed,      19636 deleted literals)
+subsumption left:     282519 (      4237 subsumed,      19694 deleted literals)
+subsumption left:     281577 (      4255 subsumed,      19764 deleted literals)
+subsumption left:     280637 (      4272 subsumed,      19834 deleted literals)
+subsumption left:     279696 (      4286 subsumed,      19902 deleted literals)
+subsumption left:     278742 (      4303 subsumed,      19959 deleted literals)
+subsumption left:     277788 (      4316 subsumed,      20013 deleted literals)
+subsumption left:     276950 (      4340 subsumed,      20180 deleted literals)
+subsumption left:     276074 (      4355 subsumed,      20310 deleted literals)
+subsumption left:     275130 (      4371 subsumed,      20376 deleted literals)
+subsumption left:     274179 (      4385 subsumed,      20434 deleted literals)
+subsumption left:     273239 (      4399 subsumed,      20502 deleted literals)
+subsumption left:     272292 (      4409 subsumed,      20560 deleted literals)
+subsumption left:     271328 (      4423 subsumed,      20605 deleted literals)
+subsumption left:     270417 (      4438 subsumed,      20697 deleted literals)
+subsumption left:     269535 (      4462 subsumed,      20819 deleted literals)
+subsumption left:     268648 (      4484 subsumed,      20935 deleted literals)
+subsumption left:     267701 (      4506 subsumed,      21006 deleted literals)
+subsumption left:     266718 (      4542 subsumed,      21058 deleted literals)
+subsumption left:     265768 (      4564 subsumed,      21128 deleted literals)
+subsumption left:     264873 (      4590 subsumed,      21236 deleted literals)
+subsumption left:     264016 (      4609 subsumed,      21381 deleted literals)
+subsumption left:     263135 (      4628 subsumed,      21502 deleted literals)
+subsumption left:     262234 (      4645 subsumed,      21606 deleted literals)
+subsumption left:     261300 (      4661 subsumed,      21683 deleted literals)
+subsumption left:     260355 (      4678 subsumed,      21749 deleted literals)
+subsumption left:     259419 (      4696 subsumed,      21824 deleted literals)
+subsumption left:     258468 (      4709 subsumed,      21882 deleted literals)
+subsumption left:     257519 (      4725 subsumed,      21945 deleted literals)
+subsumption left:     256580 (      4740 subsumed,      22015 deleted literals)
+subsumption left:     255627 (      4756 subsumed,      22073 deleted literals)
+subsumption left:     254686 (      4766 subsumed,      22137 deleted literals)
+subsumption left:     253799 (      4789 subsumed,      22254 deleted literals)
+subsumption left:     252880 (      4805 subsumed,      22343 deleted literals)
+subsumption left:     251923 (      4816 subsumed,      22393 deleted literals)
+subsumption left:     250973 (      4835 subsumed,      22457 deleted literals)
+subsumption left:     250019 (      4843 subsumed,      22507 deleted literals)
+subsumption left:     249055 (      4858 subsumed,      22553 deleted literals)
+subsumption left:     248117 (      4873 subsumed,      22624 deleted literals)
+subsumption left:     247179 (      4892 subsumed,      22696 deleted literals)
+subsumption left:     246245 (      4906 subsumed,      22770 deleted literals)
+subsumption left:     245305 (      4922 subsumed,      22840 deleted literals)
+subsumption left:     244355 (      4936 subsumed,      22898 deleted literals)
+subsumption left:     243423 (      4952 subsumed,      22977 deleted literals)
+subsumption left:     242476 (      4967 subsumed,      23038 deleted literals)
+subsumption left:     241531 (      4981 subsumed,      23103 deleted literals)
+subsumption left:     240583 (      4996 subsumed,      23165 deleted literals)
+subsumption left:     239625 (      5006 subsumed,      23211 deleted literals)
+subsumption left:     238735 (      5030 subsumed,      23329 deleted literals)
+subsumption left:     237807 (      5043 subsumed,      23407 deleted literals)
+subsumption left:     236867 (      5061 subsumed,      23479 deleted literals)
+subsumption left:     235906 (      5084 subsumed,      23537 deleted literals)
+subsumption left:     234968 (      5099 subsumed,      23611 deleted literals)
+subsumption left:     234081 (      5120 subsumed,      23729 deleted literals)
+subsumption left:     233193 (      5144 subsumed,      23843 deleted literals)
+subsumption left:     232286 (      5164 subsumed,      23945 deleted literals)
+subsumption left:     231328 (      5172 subsumed,      23991 deleted literals)
+subsumption left:     230378 (      5184 subsumed,      24048 deleted literals)
+subsumption left:     229440 (      5200 subsumed,      24120 deleted literals)
+subsumption left:     228488 (      5214 subsumed,      24177 deleted literals)
+subsumption left:     227536 (      5230 subsumed,      24235 deleted literals)
+subsumption left:     226621 (      5252 subsumed,      24328 deleted literals)
+subsumption left:     225746 (      5274 subsumed,      24453 deleted literals)
+subsumption left:     224865 (      5296 subsumed,      24574 deleted literals)
+subsumption left:     223903 (      5316 subsumed,      24632 deleted literals)
+subsumption left:     222964 (      5334 subsumed,      24704 deleted literals)
+subsumption left:     222089 (      5354 subsumed,      24837 deleted literals)
+subsumption left:     221209 (      5373 subsumed,      24962 deleted literals)
+subsumption left:     220297 (      5388 subsumed,      25056 deleted literals)
+subsumption left:     219369 (      5404 subsumed,      25134 deleted literals)
+subsumption left:     218485 (      5425 subsumed,      25256 deleted literals)
+subsumption left:     217536 (      5447 subsumed,      25321 deleted literals)
+subsumption left:     216582 (      5455 subsumed,      25371 deleted literals)
+subsumption left:     215634 (      5474 subsumed,      25437 deleted literals)
+subsumption left:     214676 (      5489 subsumed,      25491 deleted literals)
+subsumption left:     213729 (      5502 subsumed,      25553 deleted literals)
+subsumption left:     212789 (      5515 subsumed,      25621 deleted literals)
+subsumption left:     211838 (      5530 subsumed,      25678 deleted literals)
+subsumption left:     210896 (      5543 subsumed,      25745 deleted literals)
+subsumption left:     209947 (      5556 subsumed,      25803 deleted literals)
+subsumption left:     209000 (      5575 subsumed,      25868 deleted literals)
+subsumption left:     208057 (      5591 subsumed,      25934 deleted literals)
+subsumption left:     207126 (      5608 subsumed,      26014 deleted literals)
+subsumption left:     206249 (      5628 subsumed,      26144 deleted literals)
+subsumption left:     205373 (      5644 subsumed,      26273 deleted literals)
+subsumption left:     204472 (      5663 subsumed,      26381 deleted literals)
+subsumption left:     203522 (      5675 subsumed,      26439 deleted literals)
+subsumption left:     202637 (      5697 subsumed,      26561 deleted literals)
+subsumption left:     201751 (      5716 subsumed,      26679 deleted literals)
+subsumption left:     200854 (      5732 subsumed,      26787 deleted literals)
+subsumption left:     199914 (      5746 subsumed,      26855 deleted literals)
+subsumption left:     198985 (      5763 subsumed,      26937 deleted literals)
+subsumption left:     198032 (      5776 subsumed,      26993 deleted literals)
+subsumption left:     197075 (      5795 subsumed,      27050 deleted literals)
+subsumption left:     196169 (      5814 subsumed,      27150 deleted literals)
+subsumption left:     195322 (      5835 subsumed,      27308 deleted literals)
+subsumption left:     194409 (      5851 subsumed,      27402 deleted literals)
+subsumption left:     193469 (      5866 subsumed,      27472 deleted literals)
+subsumption left:     192522 (      5882 subsumed,      27535 deleted literals)
+subsumption left:     191585 (      5895 subsumed,      27606 deleted literals)
+subsumption left:     190635 (      5914 subsumed,      27669 deleted literals)
+subsumption left:     189679 (      5922 subsumed,      27717 deleted literals)
+subsumption left:     188776 (      5944 subsumed,      27818 deleted literals)
+subsumption left:     187896 (      5967 subsumed,      27940 deleted literals)
+subsumption left:     186998 (      5984 subsumed,      28047 deleted literals)
+subsumption left:     186042 (      6011 subsumed,      28115 deleted literals)
+subsumption left:     185091 (      6026 subsumed,      28177 deleted literals)
+subsumption left:     184150 (      6044 subsumed,      28248 deleted literals)
+subsumption left:     183214 (      6062 subsumed,      28323 deleted literals)
+subsumption left:     182262 (      6078 subsumed,      28382 deleted literals)
+subsumption left:     181318 (      6092 subsumed,      28449 deleted literals)
+subsumption left:     180409 (      6113 subsumed,      28547 deleted literals)
+subsumption left:     179533 (      6130 subsumed,      28674 deleted literals)
+subsumption left:     178662 (      6148 subsumed,      28811 deleted literals)
+subsumption left:     177714 (      6164 subsumed,      28872 deleted literals)
+subsumption left:     176766 (      6177 subsumed,      28934 deleted literals)
+subsumption left:     175831 (      6194 subsumed,      29010 deleted literals)
+subsumption left:     174875 (      6209 subsumed,      29064 deleted literals)
+subsumption left:     173924 (      6218 subsumed,      29117 deleted literals)
+subsumption left:     173034 (      6239 subsumed,      29231 deleted literals)
+subsumption left:     172164 (      6265 subsumed,      29366 deleted literals)
+subsumption left:     171244 (      6286 subsumed,      29458 deleted literals)
+subsumption left:     170278 (      6302 subsumed,      29504 deleted literals)
+subsumption left:     169342 (      6320 subsumed,      29582 deleted literals)
+subsumption left:     168406 (      6337 subsumed,      29656 deleted literals)
+subsumption left:     167474 (      6360 subsumed,      29740 deleted literals)
+subsumption left:     166540 (      6375 subsumed,      29813 deleted literals)
+subsumption left:     165639 (      6399 subsumed,      29922 deleted literals)
+subsumption left:     164793 (      6419 subsumed,      30081 deleted literals)
+subsumption left:     163870 (      6436 subsumed,      30166 deleted literals)
+subsumption left:     162930 (      6451 subsumed,      30236 deleted literals)
+subsumption left:     161990 (      6466 subsumed,      30305 deleted literals)
+subsumption left:     161041 (      6481 subsumed,      30365 deleted literals)
+subsumption left:     160093 (      6497 subsumed,      30428 deleted literals)
+subsumption left:     159165 (      6514 subsumed,      30507 deleted literals)
+subsumption left:     158276 (      6536 subsumed,      30619 deleted literals)
+subsumption left:     157407 (      6559 subsumed,      30756 deleted literals)
+subsumption left:     156471 (      6571 subsumed,      30827 deleted literals)
+subsumption left:     155506 (      6601 subsumed,      30891 deleted literals)
+subsumption left:     154565 (      6617 subsumed,      30960 deleted literals)
+subsumption left:     153634 (      6634 subsumed,      31040 deleted literals)
+subsumption left:     152702 (      6650 subsumed,      31117 deleted literals)
+subsumption left:     151770 (      6661 subsumed,      31192 deleted literals)
+subsumption left:     150905 (      6693 subsumed,      31340 deleted literals)
+subsumption left:     150044 (      6716 subsumed,      31483 deleted literals)
+subsumption left:     149102 (      6732 subsumed,      31553 deleted literals)
+subsumption left:     148160 (      6742 subsumed,      31616 deleted literals)
+subsumption left:     147211 (      6758 subsumed,      31677 deleted literals)
+subsumption left:     146277 (      6773 subsumed,      31753 deleted literals)
+subsumption left:     145321 (      6788 subsumed,      31807 deleted literals)
+subsumption left:     144407 (      6811 subsumed,      31900 deleted literals)
+subsumption left:     143527 (      6831 subsumed,      32022 deleted literals)
+subsumption left:     142622 (      6850 subsumed,      32121 deleted literals)
+subsumption left:     141668 (      6868 subsumed,      32182 deleted literals)
+subsumption left:     140717 (      6889 subsumed,      32248 deleted literals)
+subsumption left:     139785 (      6906 subsumed,      32327 deleted literals)
+subsumption left:     138861 (      6924 subsumed,      32414 deleted literals)
+subsumption left:     137922 (      6933 subsumed,      32481 deleted literals)
+subsumption left:     136981 (      6949 subsumed,      32549 deleted literals)
+subsumption left:     136141 (      6979 subsumed,      32716 deleted literals)
+subsumption left:     135266 (      7000 subsumed,      32848 deleted literals)
+subsumption left:     134328 (      7016 subsumed,      32920 deleted literals)
+subsumption left:     133381 (      7029 subsumed,      32981 deleted literals)
+subsumption left:     132439 (      7045 subsumed,      33049 deleted literals)
+subsumption left:     131501 (      7059 subsumed,      33119 deleted literals)
+subsumption left:     130559 (      7074 subsumed,      33185 deleted literals)
+subsumption left:     129656 (      7092 subsumed,      33284 deleted literals)
+subsumption left:     128795 (      7118 subsumed,      33428 deleted literals)
+subsumption left:     127865 (      7134 subsumed,      33505 deleted literals)
+subsumption left:     126877 (      7177 subsumed,      33559 deleted literals)
+subsumption left:     125930 (      7193 subsumed,      33622 deleted literals)
+subsumption left:     125007 (      7209 subsumed,      33709 deleted literals)
+subsumption left:     124066 (      7220 subsumed,      33774 deleted literals)
+subsumption left:     123132 (      7229 subsumed,      33846 deleted literals)
+subsumption left:     122222 (      7251 subsumed,      33945 deleted literals)
+subsumption left:     121372 (      7271 subsumed,      34098 deleted literals)
+subsumption left:     120459 (      7291 subsumed,      34192 deleted literals)
+subsumption left:     119521 (      7306 subsumed,      34264 deleted literals)
+subsumption left:     118577 (      7322 subsumed,      34330 deleted literals)
+subsumption left:     117632 (      7336 subsumed,      34394 deleted literals)
+subsumption left:     116691 (      7353 subsumed,      34465 deleted literals)
+subsumption left:     115742 (      7363 subsumed,      34521 deleted literals)
+subsumption left:     114795 (      7375 subsumed,      34580 deleted literals)
+subsumption left:     113854 (      7388 subsumed,      34647 deleted literals)
+subsumption left:     112903 (      7402 subsumed,      34704 deleted literals)
+subsumption left:     111951 (      7418 subsumed,      34763 deleted literals)
+subsumption left:     111002 (      7436 subsumed,      34827 deleted literals)
+subsumption left:     110048 (      7448 subsumed,      34881 deleted literals)
+subsumption left:     109134 (      7468 subsumed,      34975 deleted literals)
+subsumption left:     108246 (      7491 subsumed,      35094 deleted literals)
+subsumption left:     107300 (      7502 subsumed,      35154 deleted literals)
+subsumption left:     106332 (      7535 subsumed,      35217 deleted literals)
+subsumption left:     105431 (      7554 subsumed,      35317 deleted literals)
+subsumption left:     104589 (      7583 subsumed,      35479 deleted literals)
+subsumption left:     103708 (      7594 subsumed,      35600 deleted literals)
+subsumption left:     102763 (      7608 subsumed,      35664 deleted literals)
+subsumption left:     101816 (      7622 subsumed,      35722 deleted literals)
+subsumption left:     100879 (      7636 subsumed,      35792 deleted literals)
+subsumption left:      99945 (      7653 subsumed,      35869 deleted literals)
+subsumption left:      99020 (      7672 subsumed,      35955 deleted literals)
+subsumption left:      98029 (      7676 subsumed,      35967 deleted literals)
+subsumption left:      97029 (      7676 subsumed,      35967 deleted literals)
+subsumption left:      96029 (      7676 subsumed,      35967 deleted literals)
+subsumption left:      95029 (      7676 subsumed,      35967 deleted literals)
+subsumption left:      94029 (      7676 subsumed,      35967 deleted literals)
+subsumption left:      93029 (      7676 subsumed,      35967 deleted literals)
+subsumption left:      92029 (      7676 subsumed,      35967 deleted literals)
+subsumption left:      91029 (      7676 subsumed,      35967 deleted literals)
+subsumption left:      90029 (      7676 subsumed,      35967 deleted literals)
+subsumption left:      89029 (      7676 subsumed,      35967 deleted literals)
+subsumption left:      88029 (      7676 subsumed,      35967 deleted literals)
+subsumption left:      87029 (      7676 subsumed,      35967 deleted literals)
+subsumption left:      86029 (      7676 subsumed,      35967 deleted literals)
+subsumption left:      85029 (      7676 subsumed,      35967 deleted literals)
+subsumption left:      84029 (      7676 subsumed,      35967 deleted literals)
+subsumption left:      83029 (      7676 subsumed,      35967 deleted literals)
+subsumption left:      82029 (      7676 subsumed,      35967 deleted literals)
+subsumption left:      81029 (      7676 subsumed,      35967 deleted literals)
+subsumption left:      80029 (      7676 subsumed,      35967 deleted literals)
+subsumption left:      79029 (      7676 subsumed,      35967 deleted literals)
+subsumption left:      78029 (      7676 subsumed,      35967 deleted literals)
+subsumption left:      77029 (      7676 subsumed,      35967 deleted literals)
+subsumption left:      76029 (      7676 subsumed,      35967 deleted literals)
+subsumption left:      75029 (      7676 subsumed,      35967 deleted literals)
+subsumption left:      74029 (      7676 subsumed,      35967 deleted literals)
+subsumption left:      73029 (      7676 subsumed,      35967 deleted literals)
+subsumption left:      72029 (      7676 subsumed,      35967 deleted literals)
+subsumption left:      71029 (      7676 subsumed,      35967 deleted literals)
+subsumption left:      70029 (      7676 subsumed,      35967 deleted literals)
+subsumption left:      69029 (      7676 subsumed,      35967 deleted literals)
+subsumption left:      68029 (      7676 subsumed,      35967 deleted literals)
+subsumption left:      67029 (      7676 subsumed,      35967 deleted literals)
+subsumption left:      66029 (      7676 subsumed,      35967 deleted literals)
+subsumption left:      65029 (      7676 subsumed,      35967 deleted literals)
+subsumption left:      64029 (      7676 subsumed,      35967 deleted literals)
+subsumption left:      63029 (      7676 subsumed,      35967 deleted literals)
+subsumption left:      62029 (      7676 subsumed,      35967 deleted literals)
+subsumption left:      61029 (      7676 subsumed,      35967 deleted literals)
+subsumption left:      60029 (      7676 subsumed,      35967 deleted literals)
+subsumption left:      59029 (      7676 subsumed,      35967 deleted literals)
+subsumption left:      58029 (      7676 subsumed,      35967 deleted literals)
+subsumption left:      57029 (      7676 subsumed,      35967 deleted literals)
+subsumption left:      56029 (      7676 subsumed,      35967 deleted literals)
+subsumption left:      55029 (      7676 subsumed,      35967 deleted literals)
+subsumption left:      54029 (      7676 subsumed,      35967 deleted literals)
+subsumption left:      53029 (      7676 subsumed,      35967 deleted literals)
+subsumption left:      52029 (      7676 subsumed,      35967 deleted literals)
+subsumption left:      51029 (      7676 subsumed,      35967 deleted literals)
+subsumption left:      50029 (      7676 subsumed,      35967 deleted literals)
+subsumption left:      49029 (      7676 subsumed,      35967 deleted literals)
+subsumption left:      48029 (      7676 subsumed,      35967 deleted literals)
+subsumption left:      47029 (      7676 subsumed,      35967 deleted literals)
+subsumption left:      46029 (      7676 subsumed,      35967 deleted literals)
+subsumption left:      45029 (      7676 subsumed,      35967 deleted literals)
+subsumption left:      44029 (      7676 subsumed,      35967 deleted literals)
+subsumption left:      43029 (      7676 subsumed,      35967 deleted literals)
+subsumption left:      42029 (      7676 subsumed,      35967 deleted literals)
+subsumption left:      41029 (      7676 subsumed,      35967 deleted literals)
+subsumption left:      40029 (      7676 subsumed,      35967 deleted literals)
+subsumption left:      39029 (      7676 subsumed,      35967 deleted literals)
+subsumption left:      38029 (      7676 subsumed,      35967 deleted literals)
+subsumption left:      37029 (      7676 subsumed,      35967 deleted literals)
+subsumption left:      36029 (      7676 subsumed,      35967 deleted literals)
+subsumption left:      34960 (      7753 subsumed,      36011 deleted literals)
+subsumption left:      33814 (      7785 subsumed,      36031 deleted literals)
+subsumption left:      32626 (      7807 subsumed,      36042 deleted literals)
+subsumption left:      31447 (      7837 subsumed,      36053 deleted literals)
+subsumption left:      30266 (      7865 subsumed,      36067 deleted literals)
+subsumption left:      29155 (      7931 subsumed,      36102 deleted literals)
+subsumption left:      28010 (      7960 subsumed,      36121 deleted literals)
+subsumption left:      26872 (      8007 subsumed,      36145 deleted literals)
+subsumption left:      25665 (      8007 subsumed,      36145 deleted literals)
+subsumption left:      24517 (      8048 subsumed,      36167 deleted literals)
+subsumption left:      23386 (      8099 subsumed,      36193 deleted literals)
+subsumption left:      22252 (      8138 subsumed,      36215 deleted literals)
+subsumption left:      21117 (      8182 subsumed,      36241 deleted literals)
+subsumption left:      19939 (      8210 subsumed,      36255 deleted literals)
+subsumption left:      18796 (      8253 subsumed,      36279 deleted literals)
+subsumption left:      17641 (      8290 subsumed,      36299 deleted literals)
+subsumption left:      16506 (      8335 subsumed,      36323 deleted literals)
+subsumption left:      15366 (      8380 subsumed,      36347 deleted literals)
+subsumption left:      14192 (      8411 subsumed,      36363 deleted literals)
+subsumption left:      13033 (      8439 subsumed,      36381 deleted literals)
+subsumption left:      11926 (      8496 subsumed,      36416 deleted literals)
+subsumption left:      10766 (      8532 subsumed,      36435 deleted literals)
+subsumption left:       9560 (      8558 subsumed,      36443 deleted literals)
+subsumption left:       8415 (      8604 subsumed,      36467 deleted literals)
+subsumption left:       7248 (      8631 subsumed,      36478 deleted literals)
+subsumption left:       6075 (      8659 subsumed,      36495 deleted literals)
+subsumption left:       4925 (      8707 subsumed,      36517 deleted literals)
+subsumption left:       3786 (      8748 subsumed,      36539 deleted literals)
+subsumption left:       2641 (      8783 subsumed,      36557 deleted literals)
+subsumption left:       1463 (      8816 subsumed,      36571 deleted literals)
+subsumption left:        594 (      9108 subsumed,      36825 deleted literals)
+subsumption left:        224 (     10108 subsumed,      37588 deleted literals)
+elimination left:      19144
+elimination left:      19252
+elimination left:      19410
+elimination left:      19657
+elimination left:      19908
+elimination left:      20145
+elimination left:      20359
+elimination left:      20602
+elimination left:      20833
+elimination left:      20754
+elimination left:      20654
+elimination left:      20554
+elimination left:      20454
+elimination left:      20354
+elimination left:      20254
+elimination left:      20154
+elimination left:      20054
+elimination left:      19954
+elimination left:      19854
+elimination left:      19754
+elimination left:      19654
+elimination left:      19554
+elimination left:      19454
+elimination left:      19354
+elimination left:      19254
+elimination left:      19154
+elimination left:      19054
+elimination left:      18954
+elimination left:      18854
+elimination left:      18754
+elimination left:      18654
+elimination left:      18554
+elimination left:      18454
+elimination left:      18354
+elimination left:      18254
+elimination left:      18154
+elimination left:      18054
+elimination left:      17954
+elimination left:      17854
+elimination left:      17754
+elimination left:      17654
+elimination left:      17554
+elimination left:      17454
+elimination left:      17354
+elimination left:      17254
+elimination left:      17154
+elimination left:      17054
+elimination left:      16954
+elimination left:      16854
+elimination left:      16754
+elimination left:      16654
+elimination left:      16554
+elimination left:      16454
+elimination left:      16354
+elimination left:      16254
+elimination left:      16154
+elimination left:      16054
+elimination left:      15954
+elimination left:      15854
+elimination left:      15754
+elimination left:      15654
+elimination left:      15554
+elimination left:      15454
+elimination left:      15354
+elimination left:      15254
+elimination left:      15154
+elimination left:      15054
+elimination left:      14954
+elimination left:      14854
+elimination left:      14754
+elimination left:      14654
+elimination left:      14554
+elimination left:      14454
+elimination left:      14354
+elimination left:      14254
+elimination left:      14154
+elimination left:      14054
+elimination left:      13954
+elimination left:      13854
+elimination left:      13754
+elimination left:      13654
+elimination left:      13554
+elimination left:      13454
+elimination left:      13354
+elimination left:      13254
+elimination left:      13154
+elimination left:      13054
+elimination left:      12954
+elimination left:      12854
+elimination left:      12754
+elimination left:      12654
+elimination left:      12554
+elimination left:      12454
+elimination left:      12354
+elimination left:      12254
+elimination left:      12154
+elimination left:      12054
+elimination left:      11954
+elimination left:      11854
+elimination left:      11754
+elimination left:      11654
+elimination left:      11554
+elimination left:      11454
+elimination left:      11354
+elimination left:      11254
+elimination left:      11154
+elimination left:      11054
+elimination left:      10954
+elimination left:      10854
+elimination left:      10754
+elimination left:      10654
+elimination left:      10554
+elimination left:      10454
+elimination left:      10354
+elimination left:      10254
+elimination left:      10154
+elimination left:      10054
+elimination left:       9954
+elimination left:       9854
+elimination left:       9754
+elimination left:       9654
+elimination left:       9554
+elimination left:       9454
+elimination left:       9354
+elimination left:       9254
+elimination left:       9154
+elimination left:       9054
+elimination left:       8954
+elimination left:       8854
+elimination left:       8754
+elimination left:       8654
+elimination left:       8554
+elimination left:       8454
+elimination left:       8354
+elimination left:       8254
+elimination left:       8154
+elimination left:       8054
+elimination left:       7954
+elimination left:       7854
+elimination left:       7754
+elimination left:       7654
+elimination left:       7554
+elimination left:       7454
+elimination left:       7354
+elimination left:       7254
+elimination left:       7154
+elimination left:       7054
+elimination left:       6954
+elimination left:       6854
+elimination left:       6754
+elimination left:       6654
+elimination left:       6554
+elimination left:       6454
+elimination left:       6354
+elimination left:       6254
+elimination left:       6154
+elimination left:       6054
+elimination left:       5954
+elimination left:       5854
+elimination left:       5754
+elimination left:       5654
+elimination left:       5554
+elimination left:       5454
+elimination left:       5354
+elimination left:       5254
+elimination left:       5154
+elimination left:       5054
+elimination left:       4954
+elimination left:       4854
+elimination left:       4754
+elimination left:       4654
+elimination left:       4554
+elimination left:       4454
+elimination left:       4354
+elimination left:       4254
+elimination left:       4154
+elimination left:       4054
+elimination left:       3954
+elimination left:       3854
+elimination left:       3754
+elimination left:       3654
+elimination left:       3554
+elimination left:       3454
+elimination left:       3354
+elimination left:       3254
+elimination left:       3154
+elimination left:       3054
+elimination left:       2954
+elimination left:       2854
+elimination left:       2754
+elimination left:       2654
+elimination left:       2554
+elimination left:       2454
+elimination left:       2354
+elimination left:       2254
+elimination left:       2154
+elimination left:       2054
+elimination left:       1954
+elimination left:       1854
+elimination left:       1754
+elimination left:       1654
+elimination left:       1554
+elimination left:       1454
+elimination left:       1354
+elimination left:       1254
+elimination left:       1154
+elimination left:       1054
+elimination left:        954
+elimination left:        854
+elimination left:        754
+elimination left:        654
+elimination left:        554
+elimination left:        454
+elimination left:        354
+elimination left:        254
+elimination left:        154
+elimination left:         54
+subsumption left:      83576 (         0 subsumed,          0 deleted literals)
+subsumption left:      82585 (        10 subsumed,         19 deleted literals)
+subsumption left:      81600 (        16 subsumed,         40 deleted literals)
+subsumption left:      80619 (        18 subsumed,         60 deleted literals)
+subsumption left:      79637 (        18 subsumed,         78 deleted literals)
+subsumption left:      78646 (        24 subsumed,         93 deleted literals)
+subsumption left:      77658 (        28 subsumed,        108 deleted literals)
+subsumption left:      76676 (        28 subsumed,        127 deleted literals)
+subsumption left:      75688 (        31 subsumed,        142 deleted literals)
+subsumption left:      74693 (        39 subsumed,        155 deleted literals)
+subsumption left:      73701 (        45 subsumed,        169 deleted literals)
+subsumption left:      72717 (        45 subsumed,        185 deleted literals)
+subsumption left:      71724 (        54 subsumed,        201 deleted literals)
+subsumption left:      70740 (        60 subsumed,        223 deleted literals)
+subsumption left:      69756 (        60 subsumed,        239 deleted literals)
+subsumption left:      68772 (        62 subsumed,        257 deleted literals)
+subsumption left:      67789 (        63 subsumed,        275 deleted literals)
+subsumption left:      66799 (        68 subsumed,        290 deleted literals)
+subsumption left:      65816 (        69 subsumed,        308 deleted literals)
+subsumption left:      64830 (        69 subsumed,        322 deleted literals)
+subsumption left:      63847 (        69 subsumed,        339 deleted literals)
+subsumption left:      62865 (        71 subsumed,        359 deleted literals)
+subsumption left:      61874 (        81 subsumed,        378 deleted literals)
+subsumption left:      60887 (        83 subsumed,        393 deleted literals)
+subsumption left:      59893 (        87 subsumed,        403 deleted literals)
+subsumption left:      58905 (        89 subsumed,        417 deleted literals)
+subsumption left:      57920 (        90 subsumed,        433 deleted literals)
+subsumption left:      56930 (        92 subsumed,        445 deleted literals)
+subsumption left:      55945 (        94 subsumed,        462 deleted literals)
+subsumption left:      54957 (        98 subsumed,        478 deleted literals)
+subsumption left:      53964 (       107 subsumed,        492 deleted literals)
+subsumption left:      52976 (       112 subsumed,        511 deleted literals)
+subsumption left:      51994 (       112 subsumed,        529 deleted literals)
+subsumption left:      50996 (       124 subsumed,        543 deleted literals)
+subsumption left:      50000 (       135 subsumed,        558 deleted literals)
+subsumption left:      49010 (       141 subsumed,        573 deleted literals)
+subsumption left:      48029 (       141 subsumed,        593 deleted literals)
+subsumption left:      47043 (       141 subsumed,        607 deleted literals)
+subsumption left:      46063 (       141 subsumed,        627 deleted literals)
+subsumption left:      45081 (       145 subsumed,        648 deleted literals)
+subsumption left:      44094 (       148 subsumed,        664 deleted literals)
+subsumption left:      43106 (       156 subsumed,        684 deleted literals)
+subsumption left:      42124 (       156 subsumed,        702 deleted literals)
+subsumption left:      41134 (       162 subsumed,        718 deleted literals)
+subsumption left:      40143 (       167 subsumed,        732 deleted literals)
+subsumption left:      39158 (       167 subsumed,        747 deleted literals)
+subsumption left:      38172 (       170 subsumed,        764 deleted literals)
+subsumption left:      37189 (       170 subsumed,        781 deleted literals)
+subsumption left:      36203 (       173 subsumed,        798 deleted literals)
+subsumption left:      35219 (       173 subsumed,        814 deleted literals)
+subsumption left:      34220 (       187 subsumed,        829 deleted literals)
+subsumption left:      33236 (       194 subsumed,        852 deleted literals)
+subsumption left:      32246 (       200 subsumed,        868 deleted literals)
+subsumption left:      31255 (       202 subsumed,        879 deleted literals)
+subsumption left:      30268 (       203 subsumed,        892 deleted literals)
+subsumption left:      29276 (       214 subsumed,        911 deleted literals)
+subsumption left:      28292 (       215 subsumed,        927 deleted literals)
+subsumption left:      27303 (       219 subsumed,        943 deleted literals)
+subsumption left:      26316 (       224 subsumed,        961 deleted literals)
+subsumption left:      25313 (       243 subsumed,        977 deleted literals)
+subsumption left:      24322 (       251 subsumed,        994 deleted literals)
+subsumption left:      23339 (       251 subsumed,       1011 deleted literals)
+subsumption left:      22354 (       255 subsumed,       1030 deleted literals)
+subsumption left:      21366 (       261 subsumed,       1048 deleted literals)
+subsumption left:      20376 (       264 subsumed,       1061 deleted literals)
+subsumption left:      19393 (       265 subsumed,       1079 deleted literals)
+subsumption left:      18402 (       273 subsumed,       1096 deleted literals)
+subsumption left:      17417 (       273 subsumed,       1111 deleted literals)
+subsumption left:      16431 (       280 subsumed,       1132 deleted literals)
+subsumption left:      15438 (       288 subsumed,       1147 deleted literals)
+subsumption left:      14449 (       295 subsumed,       1165 deleted literals)
+subsumption left:      13460 (       299 subsumed,       1180 deleted literals)
+subsumption left:      12468 (       311 subsumed,       1199 deleted literals)
+subsumption left:      11484 (       312 subsumed,       1216 deleted literals)
+subsumption left:      10502 (       316 subsumed,       1238 deleted literals)
+subsumption left:       9501 (       330 subsumed,       1251 deleted literals)
+subsumption left:       8517 (       336 subsumed,       1272 deleted literals)
+subsumption left:       7527 (       340 subsumed,       1286 deleted literals)
+subsumption left:       6545 (       346 subsumed,       1309 deleted literals)
+subsumption left:       5567 (       347 subsumed,       1331 deleted literals)
+subsumption left:       4582 (       350 subsumed,       1349 deleted literals)
+subsumption left:       3588 (       361 subsumed,       1366 deleted literals)
+subsumption left:       2590 (       361 subsumed,       1368 deleted literals)
+subsumption left:       1590 (       361 subsumed,       1368 deleted literals)
+subsumption left:        568 (       361 subsumed,       1368 deleted literals)
+elimination left:       1477
+elimination left:       1392
+elimination left:       1292
+elimination left:       1192
+elimination left:       1092
+elimination left:        992
+elimination left:        892
+elimination left:        792
+elimination left:        692
+elimination left:        592
+elimination left:        492
+elimination left:        392
+elimination left:        292
+elimination left:        192
+elimination left:         92
+subsumption left:        503 (         0 subsumed,          0 deleted literals)
+elimination left:         18
+|  Garbage collection:       20955276 bytes =>      8858108 bytes             |
+|  Eliminated clauses:           3.16 Mb                                      |
+|  Simplification time:          0.74 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+|       100 |  108808   518308  1696219 |   190046       95     30 |  1.879 % |
+|       250 |  108808   518308  1696219 |   209050      245     25 |  1.879 % |
+|       475 |  108807   518308  1696219 |   229955      469     21 |  1.880 % |
+|       812 |  108806   518287  1696177 |   252951      805     19 |  1.880 % |
+|      1318 |  108806   518287  1696177 |   278246     1311     18 |  1.880 % |
+|      2077 |  108806   518287  1696177 |   306071     2070     20 |  1.880 % |
+|      3216 |  108805   518284  1696171 |   336678     3208     21 |  1.881 % |
+|      4924 |  108804   518281  1696165 |   370346     4915     21 |  1.881 % |
+|      7486 |  108803   518278  1696157 |   407381     7475     28 |  1.882 % |
+|     11330 |  108803   518278  1696157 |   448119    11319     39 |  1.882 % |
+|     17096 |  108803   518278  1696157 |   492931    17085     39 |  1.882 % |
+|     25745 |  108803   518278  1696157 |   542224    25734     44 |  1.882 % |
+|     38719 |  108803   518278  1696157 |   596446    38708     55 |  1.882 % |
+|     58180 |  108803   518278  1696157 |   656091    58169     61 |  1.882 % |
+|     87372 |  108803   518278  1696157 |   721700    87361     67 |  1.882 % |
+|    131161 |  108803   518278  1696157 |   793870   131150     80 |  1.882 % |
+|    196845 |  108801   518272  1696145 |   873257   196832     99 |  1.883 % |
+===============================================================================
+restarts              : 574
+conflicts             : 248397         (8970 /sec)
+decisions             : 13938387       (0.00 % random) (503357 /sec)
+propagations          : 123989183      (4477620 /sec)
+conflict literals     : 29151871       (5.31 % deleted)
+Memory used           : 274.02 MB
+CPU time              : 27.6909 s
+
+SATISFIABLE
+

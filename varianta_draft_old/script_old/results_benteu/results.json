@@ -1,0 +1,62 @@
+[
+  {
+    "benchmark": "tests/8e62c5d47920ffe36052f86177403e70-SC25_Timetable_C_393_E_45_Cl_26_D_7_T_50.normalised.cnf",
+    "status": "SATISFIABLE",
+    "time_seconds": 28.029502,
+    "cpu_time_solver": "27.6909",
+    "stats": {
+      "conflicts": "248397",
+      "decisions": "13938387",
+      "propagations": "123989183",
+      "cpu_time_solver": "27.6909"
+    },
+    "timeout_seconds": 5000,
+    "log_path": "/Users/swoldemort/Documents/Coding/VerificareFormala/vf-proiect/script/results_benteu/8e62c5d47920ffe36052f86177403e70-SC25_Timetable_C_393_E_45_Cl_26_D_7_T_50.normalised.log.txt",
+    "output_file": "/Users/swoldemort/Documents/Coding/VerificareFormala/vf-proiect/script/results_benteu/8e62c5d47920ffe36052f86177403e70-SC25_Timetable_C_393_E_45_Cl_26_D_7_T_50.normalised.out"
+  },
+  {
+    "benchmark": "tests/b1c8eaa002ac2fa1c8bfd1002738e78e-cliquecolouring_n15_k7_c6.sanitized.cnf",
+    "status": "TIMEOUT",
+    "time_seconds": 5000.020276,
+    "cpu_time_solver": "",
+    "stats": {},
+    "timeout_seconds": 5000,
+    "log_path": "/Users/swoldemort/Documents/Coding/VerificareFormala/vf-proiect/script/results_benteu/b1c8eaa002ac2fa1c8bfd1002738e78e-cliquecolouring_n15_k7_c6.sanitized.log.txt",
+    "output_file": "/Users/swoldemort/Documents/Coding/VerificareFormala/vf-proiect/script/results_benteu/b1c8eaa002ac2fa1c8bfd1002738e78e-cliquecolouring_n15_k7_c6.sanitized.out"
+  },
+  {
+    "benchmark": "tests/ca3c65a863526793968fc30618a42709-case16.normalised.cnf",
+    "status": "SATISFIABLE",
+    "time_seconds": 1931.470541,
+    "cpu_time_solver": "1909.19",
+    "stats": {
+      "conflicts": "33427754",
+      "decisions": "42643751",
+      "propagations": "3933684584",
+      "cpu_time_solver": "1909.19"
+    },
+    "timeout_seconds": 5000,
+    "log_path": "/Users/swoldemort/Documents/Coding/VerificareFormala/vf-proiect/script/results_benteu/ca3c65a863526793968fc30618a42709-case16.normalised.log.txt",
+    "output_file": "/Users/swoldemort/Documents/Coding/VerificareFormala/vf-proiect/script/results_benteu/ca3c65a863526793968fc30618a42709-case16.normalised.out"
+  },
+  {
+    "benchmark": "tests/de8c42d50f1dbf43a731f1916dc6bf01-16_16_booth_dadda_mapped_and_and_wallace_origin_bit28.cnf",
+    "status": "TIMEOUT",
+    "time_seconds": 5000.017195,
+    "cpu_time_solver": "",
+    "stats": {},
+    "timeout_seconds": 5000,
+    "log_path": "/Users/swoldemort/Documents/Coding/VerificareFormala/vf-proiect/script/results_benteu/de8c42d50f1dbf43a731f1916dc6bf01-16_16_booth_dadda_mapped_and_and_wallace_origin_bit28.log.txt",
+    "output_file": "/Users/swoldemort/Documents/Coding/VerificareFormala/vf-proiect/script/results_benteu/de8c42d50f1dbf43a731f1916dc6bf01-16_16_booth_dadda_mapped_and_and_wallace_origin_bit28.out"
+  },
+  {
+    "benchmark": "tests/f33a6163305d6559043b7438a692dea9-simon-r17-1.sanitized.cnf",
+    "status": "TIMEOUT",
+    "time_seconds": 5000.019532,
+    "cpu_time_solver": "",
+    "stats": {},
+    "timeout_seconds": 5000,
+    "log_path": "/Users/swoldemort/Documents/Coding/VerificareFormala/vf-proiect/script/results_benteu/f33a6163305d6559043b7438a692dea9-simon-r17-1.sanitized.log.txt",
+    "output_file": "/Users/swoldemort/Documents/Coding/VerificareFormala/vf-proiect/script/results_benteu/f33a6163305d6559043b7438a692dea9-simon-r17-1.sanitized.out"
+  }
+]

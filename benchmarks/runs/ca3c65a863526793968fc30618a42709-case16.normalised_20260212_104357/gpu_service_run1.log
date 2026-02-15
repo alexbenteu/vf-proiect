@@ -1,0 +1,5 @@
+CP3 online oracle service starting
+CNF: /home/bent/proiect-minisat/tests/ca3c65a863526793968fc30618a42709-case16.normalised.cnf (vars=600, clauses=5404)
+Initializing engines...
+CP3 online oracle service started
+Tensor status: enabled (ok (b1 streaming frontier, clauses=5404, tile=4096))

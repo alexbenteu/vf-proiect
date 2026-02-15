@@ -1,0 +1,42 @@
+WARNING: for repeatability, setting FPU to use double precision
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:        213268                                         |
+|  Number of clauses:          660028                                         |
+|  Parse time:                   0.24 s                                       |
+|  Eliminated clauses:           3.16 Mb                                      |
+|  Simplification time:          0.92 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+c [instinct-gpu] mapped shared memory: /home/bent/proiect-minisat/benchmarks/runs/8e62c5d47920ffe36052f86177403e70-SC25_Timetable_C_393_E_45_Cl_26_D_7_T_50.normalised_20260214_154422/gpu_run1.shm.bin
+|       100 |  108808   518308  1696219 |   190046       95     30 |  1.879 % |
+|       250 |  108808   518308  1696219 |   209050      245     25 |  1.879 % |
+|       475 |  108807   518308  1696219 |   229955      469     21 |  1.880 % |
+|       812 |  108806   518287  1696177 |   252951      805     19 |  1.880 % |
+|      1318 |  108806   518287  1696177 |   278246     1311     18 |  1.880 % |
+|      2077 |  108806   518287  1696177 |   306071     2070     20 |  1.880 % |
+|      3216 |  108805   518284  1696171 |   336678     3208     21 |  1.881 % |
+|      4924 |  108804   518281  1696165 |   370346     4915     21 |  1.881 % |
+|      7486 |  108803   518278  1696157 |   407381     7475     28 |  1.882 % |
+|     11330 |  108803   518278  1696157 |   448119    11319     39 |  1.882 % |
+|     17096 |  108803   518278  1696157 |   492931    17085     39 |  1.882 % |
+|     25745 |  108803   518278  1696157 |   542224    25734     44 |  1.882 % |
+|     38719 |  108803   518278  1696157 |   596446    38708     49 |  1.882 % |
+===============================================================================
+restarts              : 127
+conflicts             : 43449          (5938 /sec)
+decisions             : 5603380        (0.00 % random) (765779 /sec)
+propagations          : 38431110       (5252141 /sec)
+instinct-gpu reqs    : 43             (dropped: 0)
+instinct-gpu sched   : submit-conf=1024 submit-dec=8 restart=0
+instinct-gpu hints   : 0              (seen: 0, stale: 0, threshold: 0.05)
+instinct-gpu usage   : 5603379        (hint-available: 0, hint-applied: 0, aggr-overrides: 0)
+instinct-gpu vsids   : rounds=21 scanned=2688 bumped=4 phase=0 relaxed=0 (every-conf=2048)
+conflict literals     : 2048375        (3.82 % deleted)
+Memory used           : 144.20 MB
+CPU time              : 7.31723 s
+
+SATISFIABLE
